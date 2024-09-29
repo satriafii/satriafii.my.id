@@ -1,5 +1,5 @@
 ---
-title: "Pilihan manusia - pilihan berisiko"
+title: "[ID] Pilihan manusia - pilihan berisiko"
 date: 2023-08-13T11:10:34+07:00
 summary: "Catatan singkatku tentang satu paragraf dari buku Thinking Fast And Slow mengenai pilihan berisiko manusia." 
 tags: ["perilaku manusia", "ekonomi perilaku", "buku", "belajar"]
