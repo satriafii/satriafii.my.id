@@ -1,5 +1,5 @@
 ---
-title: "Ini adalah post kedua"
+title: "[ID] Ini adalah post kedua"
 date: 2023-07-01T16:52:20+07:00
 description: "Kedua kalinya saya menulis ini wkwkwkwkw" 
 tags: ["belajar", "hugo", "blog"]
