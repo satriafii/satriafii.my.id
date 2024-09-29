@@ -1,5 +1,5 @@
 ---
-title: "Ketakutanku Akan Berhenti Belajar"
+title: "[ID] Ketakutanku Akan Berhenti Belajar"
 date: 2023-08-18T19:12:17+07:00
 description: "" 
 summary: "Salah satu overthinking-an ku ketika menyelesaikan studi."
