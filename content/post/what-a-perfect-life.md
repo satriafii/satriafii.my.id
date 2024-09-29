@@ -1,5 +1,5 @@
 ---
-title: "What A Perfect Life to Continue Live In"
+title: "[EN] [ID] What A Perfect Life to Continue Live In"
 date: 2023-08-18T19:17:23+07:00
 description: "" 
 summary: "A random think of mine, at a random day."
