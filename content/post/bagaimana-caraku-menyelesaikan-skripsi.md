@@ -1,5 +1,5 @@
 ---
-title: "Bagaimana Caraku Menyelesaikan Skripsi"
+title: "[ID] Bagaimana Caraku Menyelesaikan Skripsi"
 date: 2023-08-16T19:26:29+07:00
 description: "" 
 summary: "Sebagai mahasiswa yang lulus dalam 11 semester, aku kira aku punya kredensial lebih untuk membagikan cara menyelesaikan skripsi ditengah ke-*lazy*-an yang melanda dan overthinking dan *dorongan* berlebih dari banyak orang."
