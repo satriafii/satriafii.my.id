@@ -1,5 +1,5 @@
 ---
-title: "Bagaimana Cara Membuat Blog Post dari 1900 Tulisan Random"
+title: "[ID] Bagaimana Cara Membuat Blog Post dari 1900 Tulisan Random"
 date: 2023-08-22T12:50:35+07:00
 description: "" 
 summary: "Berdasarkan pengalaman pribadi dan trial dan eror dan konsep kerja cerdas wkwkw"
