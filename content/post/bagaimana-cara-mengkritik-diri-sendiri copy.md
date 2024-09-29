@@ -1,5 +1,5 @@
 ---
-title: "Bagaimana Cara Mengkritik Diri Sendiri"
+title: "[ID] Bagaimana Cara Mengkritik Diri Sendiri"
 date: 2023-08-14T11:32:30+07:00
 description: "" 
 summary: "**Bukan** panduan (singkat) untuk bisa menerima kekurangan diri sendiri."
