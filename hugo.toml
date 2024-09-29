@@ -1,3 +1,4 @@
 baseURL = 'https://satriafii.my.id'
 languageCode = 'en-us'
 title = 'Satriafii'
+enableEmoji = true
