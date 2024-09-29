@@ -1,5 +1,5 @@
 ---
-title: "Buku Kambing dan Hujan"
+title: "[ID] Buku Kambing dan Hujan"
 date: 2023-08-29T02:29:07+07:00
 description: "" 
 summary: "Kinda review(?)"
