@@ -1,5 +1,5 @@
 ---
-title: "the curious incident of the dog in the night"
+title: "[ID] the curious incident of the dog in the night"
 date: 2023-08-13T11:21:19+07:00
 summary: "Satu lagi buku tentang seseorang yang tidak bisa merasakan emosi." 
 tags: ["buku", "reading journal", "no emotion"]
