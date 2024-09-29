@@ -1,5 +1,5 @@
 ---
-title: I don't know what to write
+title: [ID] I don't know what to write
 date: 2023-09-07T08:38:33+07:00
 description: 
 summary: Curcol, sedang writing block(?) Padahal ya nggak banget-banget sih.
