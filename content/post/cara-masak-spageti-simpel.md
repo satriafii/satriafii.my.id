@@ -1,5 +1,5 @@
 ---
-title: "Cara Memasak Spageti Bumbu Tomat Segar Simpel"
+title: "[ID] Cara Memasak Spageti Bumbu Tomat Segar Simpel"
 date: 2023-08-20T21:25:28+07:00
 description: "" 
 summary: "Berikut merupakan resep yang aku dapat dari yutup dan dimodifikasi sesuai dengan kemampuan memasakku hehe alias with :sparkles: feeling :sparkles:."
