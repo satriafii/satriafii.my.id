@@ -1,5 +1,5 @@
 ---
-title: "Manusia Sosial (Media)"
+title: "[ID] Manusia Sosial (Media)"
 date: 2023-08-13T11:06:03+07:00
 summary: "Curhatan seorang pekerja remote yang kesepian." 
 tags: ["youtube life", "remote work life"]
