@@ -1,5 +1,5 @@
 ---
-title: "Dallergut Toko Penjual Mimpi"
+title: "[ID] Dallergut Toko Penjual Mimpi"
 date: 2023-08-13T11:31:21+07:00
 description: "Reading journal ketika membaca buku Dallergut yang pertama." 
 summary: "Namun, banyak hal di dunia ini yang tidak akan bisa dipahami jika tidak diyakini."
