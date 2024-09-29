@@ -1,5 +1,5 @@
 ---
-title: "[ED] [ID] Night Without Light"
+title: "[EN] [ID] Night Without Light"
 date: 2023-08-02T16:00:12+07:00
 summary: "this posted at a night but with the light out" 
 tags: ["puisi", "fiksi"]
