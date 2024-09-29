@@ -1,5 +1,5 @@
 ---
-title: "Post (official) Pertama"
+title: "[ID] Post (official) Pertama"
 date: 2023-07-08T22:36:58+07:00
 description: "Hai, halo, 안영, Hallo, Hi" 
 tags: ["blog", "hugo"]
