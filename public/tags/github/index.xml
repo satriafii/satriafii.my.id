@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Github on Satriafii</title>
+    <link>http://localhost:1313/tags/github/</link>
+    <description>Recent content in Github on Satriafii</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jul 2023 16:13:01 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post Pertama Setelah About</title>
+      <link>http://localhost:1313/post/post-pertama/</link>
+      <pubDate>Sat, 01 Jul 2023 16:13:01 +0700</pubDate>
+      <guid>http://localhost:1313/post/post-pertama/</guid>
+      <description>&lt;p&gt;Post ini hanya sebagai percobaan, tapi kalau mau dibaca juga oke. Siapa tahu bisa ikut belajar.&#xA;Happy learning!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

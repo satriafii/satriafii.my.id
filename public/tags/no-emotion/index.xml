@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>No Emotion on Satriafii</title>
+    <link>http://localhost:1313/tags/no-emotion/</link>
+    <description>Recent content in No Emotion on Satriafii</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Aug 2023 11:21:19 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/no-emotion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>the curious incident of the dog in the night</title>
+      <link>http://localhost:1313/post/the-curious-incident-of-the-dog-in-the-night/</link>
+      <pubDate>Sun, 13 Aug 2023 11:21:19 +0700</pubDate>
+      <guid>http://localhost:1313/post/the-curious-incident-of-the-dog-in-the-night/</guid>
+      <description>Satu lagi buku tentang seseorang yang tidak bisa merasakan emosi.</description>
+    </item>
+  </channel>
+</rss>

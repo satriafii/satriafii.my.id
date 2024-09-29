@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skripsi on Satriafii</title>
+    <link>http://localhost:1313/tags/skripsi/</link>
+    <description>Recent content in Skripsi on Satriafii</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Aug 2023 19:26:29 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/skripsi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bagaimana Caraku Menyelesaikan Skripsi</title>
+      <link>http://localhost:1313/post/bagaimana-caraku-menyelesaikan-skripsi/</link>
+      <pubDate>Wed, 16 Aug 2023 19:26:29 +0700</pubDate>
+      <guid>http://localhost:1313/post/bagaimana-caraku-menyelesaikan-skripsi/</guid>
+      <description>Sebagai mahasiswa yang lulus dalam 11 semester, aku kira aku punya kredensial lebih untuk membagikan cara menyelesaikan skripsi ditengah ke-&lt;em&gt;lazy&lt;/em&gt;-an yang melanda dan overthinking dan &lt;em&gt;dorongan&lt;/em&gt; berlebih dari banyak orang.</description>
+    </item>
+    <item>
+      <title>Heteroskedastisitas</title>
+      <link>http://localhost:1313/post/heteroskedastisitas/</link>
+      <pubDate>Sun, 13 Aug 2023 10:53:43 +0700</pubDate>
+      <guid>http://localhost:1313/post/heteroskedastisitas/</guid>
+      <description>Sedikit catatan tentang heteroskedastisitas.</description>
+    </item>
+  </channel>
+</rss>

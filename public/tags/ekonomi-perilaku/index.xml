@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ekonomi Perilaku on Satriafii</title>
+    <link>http://localhost:1313/tags/ekonomi-perilaku/</link>
+    <description>Recent content in Ekonomi Perilaku on Satriafii</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Aug 2023 11:13:08 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ekonomi-perilaku/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thinking Fast And Slow</title>
+      <link>http://localhost:1313/post/thinking-fast-and-slow/</link>
+      <pubDate>Sun, 13 Aug 2023 11:13:08 +0700</pubDate>
+      <guid>http://localhost:1313/post/thinking-fast-and-slow/</guid>
+      <description>Reading journal ketika awal-awal baca buku Thinking Fast and Slow.</description>
+    </item>
+    <item>
+      <title>Ekon</title>
+      <link>http://localhost:1313/post/ekon/</link>
+      <pubDate>Sun, 13 Aug 2023 11:11:42 +0700</pubDate>
+      <guid>http://localhost:1313/post/ekon/</guid>
+      <description>Ekon, si paling rasional, egois, dan konsisten. wkwkw</description>
+    </item>
+    <item>
+      <title>Pilihan manusia - pilihan berisiko</title>
+      <link>http://localhost:1313/post/pilihan-manusia-pilihan-berisiko/</link>
+      <pubDate>Sun, 13 Aug 2023 11:10:34 +0700</pubDate>
+      <guid>http://localhost:1313/post/pilihan-manusia-pilihan-berisiko/</guid>
+      <description>Catatan singkatku tentang satu paragraf dari buku Thinking Fast And Slow mengenai pilihan berisiko manusia.</description>
+    </item>
+  </channel>
+</rss>

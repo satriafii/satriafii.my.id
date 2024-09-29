@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kutipan on Satriafii</title>
+    <link>http://localhost:1313/tags/kutipan/</link>
+    <description>Recent content in Kutipan on Satriafii</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Aug 2023 22:26:15 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/kutipan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Benci dan Membenci</title>
+      <link>http://localhost:1313/post/benci-dan-membenci/</link>
+      <pubDate>Wed, 23 Aug 2023 22:26:15 +0700</pubDate>
+      <guid>http://localhost:1313/post/benci-dan-membenci/</guid>
+      <description>Sebenarnya aku kurang suka menggunakan kata ini, tapi ini aku dapatkan dari sebuah buku anak-anak. Kupikir bisa jadi renungan juga, jadi aku catat.</description>
+    </item>
+    <item>
+      <title>Almond</title>
+      <link>http://localhost:1313/post/almond/</link>
+      <pubDate>Sun, 13 Aug 2023 11:22:55 +0700</pubDate>
+      <guid>http://localhost:1313/post/almond/</guid>
+      <description>Baca ulang almond karena sedang terkagum-kagum dengan sastra asia hehehe</description>
+    </item>
+  </channel>
+</rss>

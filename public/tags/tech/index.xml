@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech on Satriafii</title>
+    <link>http://localhost:1313/tags/tech/</link>
+    <description>Recent content in Tech on Satriafii</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Aug 2023 21:04:29 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Too Dependent with Smartphone</title>
+      <link>http://localhost:1313/post/too-dependent-smartphone/</link>
+      <pubDate>Sun, 20 Aug 2023 21:04:29 +0700</pubDate>
+      <guid>http://localhost:1313/post/too-dependent-smartphone/</guid>
+      <description>Kenapa dunia kita semakin kotak dan kotak?</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Perilaku Manusia on Satriafii</title>
+    <link>http://localhost:1313/tags/perilaku-manusia/</link>
+    <description>Recent content in Perilaku Manusia on Satriafii</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Aug 2023 21:04:29 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/perilaku-manusia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Too Dependent with Smartphone</title>
+      <link>http://localhost:1313/post/too-dependent-smartphone/</link>
+      <pubDate>Sun, 20 Aug 2023 21:04:29 +0700</pubDate>
+      <guid>http://localhost:1313/post/too-dependent-smartphone/</guid>
+      <description>Kenapa dunia kita semakin kotak dan kotak?</description>
+    </item>
+    <item>
+      <title>Bahagia Hanya Efek Samping</title>
+      <link>http://localhost:1313/post/bahagia-hanya-efek-samping/</link>
+      <pubDate>Sun, 20 Aug 2023 01:29:09 +0700</pubDate>
+      <guid>http://localhost:1313/post/bahagia-hanya-efek-samping/</guid>
+      <description>Pendapatku tentang kalimat ini: Tujuanku adalah membahagiakan &lt;em&gt;A&lt;/em&gt;-ku dan semacamnya.</description>
+    </item>
+    <item>
+      <title>Pilihan manusia - pilihan berisiko</title>
+      <link>http://localhost:1313/post/pilihan-manusia-pilihan-berisiko/</link>
+      <pubDate>Sun, 13 Aug 2023 11:10:34 +0700</pubDate>
+      <guid>http://localhost:1313/post/pilihan-manusia-pilihan-berisiko/</guid>
+      <description>Catatan singkatku tentang satu paragraf dari buku Thinking Fast And Slow mengenai pilihan berisiko manusia.</description>
+    </item>
+  </channel>
+</rss>

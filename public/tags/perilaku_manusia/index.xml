@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Perilaku_manusia on Satriafii</title>
+    <link>http://localhost:1313/tags/perilaku_manusia/</link>
+    <description>Recent content in Perilaku_manusia on Satriafii</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 May 2024 16:16:06 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/perilaku_manusia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My TED Talk To Baby Kale Today - H(you)uman</title>
+      <link>http://localhost:1313/post/my-ted-talk-to-baby-kale-today/</link>
+      <pubDate>Sun, 12 May 2024 16:16:06 +0700</pubDate>
+      <guid>http://localhost:1313/post/my-ted-talk-to-baby-kale-today/</guid>
+      <description>My baby kale is 7 days old and they need more personal space, so I give them a free TED Talk just to prepare them for this whole new world. In case any human need, I also post it here. In this talk, I will discuss about human problems and their solutions.</description>
+    </item>
+  </channel>
+</rss>

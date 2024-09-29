@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reading Log on Satriafii</title>
+    <link>http://localhost:1313/tags/reading-log/</link>
+    <description>Recent content in Reading Log on Satriafii</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Aug 2023 20:30:09 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/reading-log/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Buku Orang Berikut yang Kau Jumpai Di Surga</title>
+      <link>http://localhost:1313/post/buku-orang-berikut-yang-kau-jumpai-di-surga/</link>
+      <pubDate>Thu, 17 Aug 2023 20:30:09 +0700</pubDate>
+      <guid>http://localhost:1313/post/buku-orang-berikut-yang-kau-jumpai-di-surga/</guid>
+      <description>Reading log dan sedikit review novel yang banyak direkomendasikan manusia-manusia penghuni booktwit kala itu.</description>
+    </item>
+    <item>
+      <title>Buku The Perfect World of Miwako Sumida</title>
+      <link>http://localhost:1313/post/buku-the-perfect-world-of-miwko-sumida/</link>
+      <pubDate>Thu, 17 Aug 2023 20:30:09 +0700</pubDate>
+      <guid>http://localhost:1313/post/buku-the-perfect-world-of-miwko-sumida/</guid>
+      <description>Reading log dan sedikit review novel dengan sampul cantik ini. Sudah pernah aku posting di twitter dan blog lamaku, tapi gpp lah buat tambah-tambah posts ini wkwk</description>
+    </item>
+  </channel>
+</rss>

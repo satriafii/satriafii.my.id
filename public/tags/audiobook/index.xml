@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Audiobook on Satriafii</title>
+    <link>http://localhost:1313/tags/audiobook/</link>
+    <description>Recent content in Audiobook on Satriafii</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Aug 2023 16:59:37 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/audiobook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sedikit Komentar tentang Buku Banyu Biru</title>
+      <link>http://localhost:1313/post/sedikit-komentar-buku-banyu-biru/</link>
+      <pubDate>Wed, 02 Aug 2023 16:59:37 +0700</pubDate>
+      <guid>http://localhost:1313/post/sedikit-komentar-buku-banyu-biru/</guid>
+      <description>Hanya komentar sekilas setelah selesai mendengarkan audiobook Banyu Biru yang ditulis oleh Ayu Dewi</description>
+    </item>
+  </channel>
+</rss>

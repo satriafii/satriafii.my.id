@@ -34,6 +34,13 @@ footer {
 	margin-bottom: 1rem;
 }
 
+.markdown-body {
+	blockquote {
+		border-left: 0.25em solid #643B0F;
+		padding: 0 1em;
+	}
+}
+
 @media screen and (max-width: 48rem) {
 	.site-nav,
 	.main-menu {
@@ -50,4 +57,10 @@ footer {
 	a {
 		color: #EFE0B9;
 	}
+	
+	.markdown-body {
+	blockquote {
+		border-left: 0.25em solid #E4B04A;
+	}
+}
 }

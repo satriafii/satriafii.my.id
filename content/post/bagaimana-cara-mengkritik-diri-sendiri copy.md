@@ -56,7 +56,7 @@ Anyway, apakah perlu validasi? Menurutku sih enggak, tapi kalau ada, akan lebih 
 
 ## 11.07.2022 - apabila kritik terhadap diri sendiri sampai melukai diri sendiri
 
-> Dari drama yang aku tonton, kali ini [Dali and Cocky Prince]({{<ref "post/dali-and-cocky-prince.md>"}}), masih ada konsep menyalahkan orang lain atas kejadian yang ditimpa oleh seseorang. Apalagi kalau kejadian itu adalah kejadian naas seperti terkena musibah atau semacamnya.
+> Dari drama yang aku tonton, kali ini [Dali and Cocky Prince]({{ < ref "post/dali-and-cocky-prince.md" > }}), masih ada konsep menyalahkan orang lain atas kejadian yang ditimpa oleh seseorang. Apalagi kalau kejadian itu adalah kejadian naas seperti terkena musibah atau semacamnya.
 >
 >Aku jarang menjadi korban atas penyalahan ini, tapi aku pernah mengalaminya: waktu Bapak esok harinya sakit karena sebelumnya minum es yang aku buatkan. Keputusan untuk melakukan sesuatu adalah keputusan si "korban", kemalangan yang diterima orang lain adalah milik mereka, bukan salah orang lain.
 >
