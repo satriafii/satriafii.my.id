@@ -1,0 +1,15 @@
+{{ partial "header.html" . }}
+
+{{ .Content }}
+
+<h2>Latest posts</h2>
+<ul class="home-posts">
+{{ range ( where .Site.RegularPages "Type" "post" | first 11 ) }}
+<li class="home-posts-item">
+    <a href="{{ .Permalink }}">{{ .Title }}</a>&nbsp&nbsp&nbsp&nbsp&nbsp
+	<time class="post-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .PublishDate.Format "2 January, 2006" }}</time>
+</li>
+{{end}}
+</ul>
+
+{{ partial "footer.html" . }}

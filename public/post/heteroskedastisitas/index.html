@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<title>Heteroskedastisitas | Satriafii</title>
+
+	<link rel="stylesheet" href="/css/style.css" type="text/css" media="all" />
+
+	</head>
+
+<body>
+
+<header class="site-header">
+  <nav class="site-nav">
+    <a class="logo" href="http://localhost:1313/">
+      Satriafii
+    </a>
+    <ul class="main-menu">
+      
+    </ul>
+  </nav>
+</header>
+
+<main class="content">
+
+<h1>Heteroskedastisitas</h1>
+
+<p>Sebelum disuruh ganti judul, aku harus menguji ini dulu sebelum bisa regresi. Hasilnya jelek. Makanya aku bikin satu catatan khusus dan baca apapun yang terkait dengan ini dalam waktu sangat singkat. Intinya, begini:</p>
+<p>Uji heteroskedastisitas digunakan untuk melihat apakah ada ketidaksamaan varian dari residual pengamatan yang satu ke pengamatan lainnya. Berikut adalah beberapa metode untuk menguji ada tidaknya masalah heteroskedastisitas:</p>
+<ul>
+<li>Metode Grafik</li>
+<li>Park</li>
+<li>Glejser = Uji Glejser mengihitung nilai F dan membandingkannya dengan Ftabel untuk mengetahui apakah ada pengaruh signifikan variabel bebas terhadap harga mutlak galatnya</li>
+<li>Korelasi Spearman (sering disebut Spearman Rho)</li>
+<li>Goldfed-Quandt</li>
+<li>Bruesch-Pagan-Godfrey</li>
+<li>White</li>
+</ul>
+<p>Pernyataan tersebut diperoleh dari buku <a href="https://onesearch.id/Record/IOS3659.31857">Analisis Regresi dengan Menggunakan Aplikasi Komputer Statistik SPSS</a> oleh Fridayana Yudiaatmaja yang bisa diakses melalui gramedia digital dengan langganan full premium.</p>
+<p>Dari <a href="https://jurnal.unitri.ac.id/index.php/Optima/article/view/1250">salah satu jurnal tentang hederoskedastisitas</a> disebutkan bahwa menurut Santoso (2014) uji heteroskedastisitas dilakukan untuk mengetahui apakah di dalam sebuah model regresi terjadi ketidaksamaan varians residual dari satu pengamatan ke pengamatan yang lain tetap.</p>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">Uji</th>
+          <th style="text-align: left">Aturan main</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">Spearman Rho</td>
+          <td style="text-align: left">Jika nilai signifikansi lebih besar dari 0,05 berarti residual varians tidak mengalami heteroskedastisitas. Apabila nilai signifikansi kurang dari 0,05 maka residual varians mengalami heteroskedastisitas.</td>
+      </tr>
+  </tbody>
+</table>
+<p>Salah satu asumsi penting dari CLRM (Classical Linear Regression Model) adalah varians dari setiap gangguan ui, kondisional terhadap variabel penjelas yang dipilih, adalah suatu angka konstan tertentu yang setara dengan varians. Hal ini disebut homoskedastisitas (homo=sama, scedasticity/spread=persebaran). Peristiwa heteroskedastisitas tidak menghilangkan sifat konsistensi dan ketidakbiasan karakteristik estimator-estimator <em>ordinary least square</em>, nemun estimator tersebut tidak lagi memiliki varians minimum yang efisien, sehingga mereka tidak lagi menjadi estimator yang BLUE (<em>Best Linear Unbiased Estimator</em>).</p>
+<p>Cara untuk mendeteksi peristiwa heteroskedastisitas pada suatu model adalah:</p>
+<ul>
+<li>Metode informal
+<ul>
+<li>Sifat alamiah problem</li>
+<li>Metode grafis</li>
+</ul>
+</li>
+<li>Metode formal
+<ul>
+<li>Uji Park</li>
+<li>Uji Glejser</li>
+<li>Uji Korelasi Spearman</li>
+<li>Uji Goldfeld-Quandt</li>
+<li>Uji Breusch-Pagan-Godfrey</li>
+<li>Uji heteroskedastisitas White umum</li>
+<li>Uji Koenker-Bassett</li>
+</ul>
+</li>
+</ul>
+<p>Sumber: <a href="https://archive.org/details/basiceconometric0000guja_g4u9">Dasar-dasar ekonometrika</a> oleh Gujarati yang bisa diakses di internet archive atau perpustakaan kampus yang menyediakan (aku dikasih bukunya sama seorang teman yang baik hati, btw hehe).</p>
+
+
+</main>
+	
+<footer>
+	<p><a href="/"> 🏠 Home</a>&nbsp&nbsp&nbsp<a href="/posts/"> 📖 More Posts</a>&nbsp&nbsp&nbsp<a href="mailto:heysatriafi@gmail.com"> 📧 E-Mail Me</a>&nbsp&nbsp&nbsp &copy;2024 Satriafii</p>
+</footer>
+
+</body>
+</html>

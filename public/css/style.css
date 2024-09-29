@@ -1,0 +1,53 @@
+body {
+	color: #2A2C05;
+	background-color: #EFE0B9;
+	font-size: 110%;
+	line-height: 1;
+	max-width: 45rem;
+	padding: 1rem;
+	margin: 0 auto;
+}
+
+a {
+	color: #B7521E;
+}
+
+.content {
+	margin-bottom: 2rem;
+}
+
+.site-nav .logo {
+	display: block;
+	font-weight: 600;
+	padding-left: 0;
+}
+
+.post-snippet {
+	margin-bottom: 1rem;
+}
+
+footer {
+	text-align: center;
+}
+
+.home-posts li {
+	margin-bottom: 1rem;
+}
+
+@media screen and (max-width: 48rem) {
+	.site-nav,
+	.main-menu {
+		flex-direction: column;
+	}
+}
+
+@media (prefers-color-scheme: dark) {
+	body {
+		background: #643B0F;
+		color: #E4B04A
+	}
+	
+	a {
+		color: #EFE0B9;
+	}
+}
