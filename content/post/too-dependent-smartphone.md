@@ -1,5 +1,5 @@
 ---
-title: "Too Dependent with Smartphone"
+title: "[ID] Too Dependent with Smartphone"
 date: 2023-08-20T21:04:29+07:00
 description: "" 
 summary: "Kenapa dunia kita semakin kotak dan kotak?"
