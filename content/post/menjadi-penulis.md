@@ -1,5 +1,5 @@
 ---
-title: Menjadi Penulis
+title: [ID] Menjadi Penulis
 date: 2023-11-06T09:16:40+07:00
 description: ""
 summary: Cerita 5w+1h tentang tulis menulis dikehidupanku. Nggak penting-penting amat, tapi buatku menulis itu penting, jadi menulis tentang menulis menurutku menarik.
