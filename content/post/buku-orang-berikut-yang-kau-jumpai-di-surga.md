@@ -1,5 +1,5 @@
 ---
-title: "Buku Orang Berikut yang Kau Jumpai Di Surga"
+title: "[ID] Buku Orang Berikut yang Kau Jumpai Di Surga"
 date: 2023-08-17T20:30:09+07:00
 description: "" 
 summary: "Reading log dan sedikit review novel yang banyak direkomendasikan manusia-manusia penghuni booktwit kala itu."
