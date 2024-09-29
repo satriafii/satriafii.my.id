@@ -1,5 +1,5 @@
 ---
-title: "Buku The Perfect World of Miwako Sumida"
+title: "[ID] Buku The Perfect World of Miwako Sumida"
 date: 2023-08-17T20:30:09+07:00
 description: "" 
 summary: "Reading log dan sedikit review novel dengan sampul cantik ini. Sudah pernah aku posting di twitter dan blog lamaku, tapi gpp lah buat tambah-tambah posts ini wkwk"
