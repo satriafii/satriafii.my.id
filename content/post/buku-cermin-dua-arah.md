@@ -1,5 +1,5 @@
 ---
-title: "Buku Cermin Dua Arah"
+title: "[ID] Buku Cermin Dua Arah"
 date: 2023-08-23T22:17:00+07:00
 description: "" 
 summary: "Reading Log dan komentar ala-ala buku Cermin Dua Arah. Sebelumnya pernah aku post di twitter dan blog satunya."
