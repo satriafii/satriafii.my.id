@@ -1,5 +1,5 @@
 ---
-title: Why I Learn New Languages
+title: [EN] Why I Learn New Languages
 date: 2024-05-11T15:54:08+07:00
 description: 
 summary: "A brief summary of why this human being bothering so much about learning new languages even the language that she's learning is used less than 10% of her lifetime. Spoiler: because she think it is impressive to \"know\" some more languages than others."
