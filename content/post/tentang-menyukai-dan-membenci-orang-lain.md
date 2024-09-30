@@ -2,7 +2,7 @@
 title: "[ID] Aku Menyukai dan Membenci Orang dengan Persentase Sendiri-Sendiri"
 date: 2024-09-30T08:47:04+07:00
 ---
-#Luaran/Blog/satriafii_social  [[Aku menyukai dan membenci orang dengan persentase sendiri-sendiri]]
+
 
 ## Aku menyukai dan membenci orang dengan persentase sendiri-sendiri
 
