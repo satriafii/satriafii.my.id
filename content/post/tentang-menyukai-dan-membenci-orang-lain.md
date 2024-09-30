@@ -26,7 +26,7 @@ Tulisan ini aku aslinya aku tulis pada tanggal 6 November 2022 pukul 00:12 dini 
 
 Disamping itu semua, aku barusan banget membaca buku yang berjudul I Want To Die but I Want To Eat Tteokbukki dan sampai pada kalimat berikut: 
 
-![Quote dari buku I Want To Die but I Want To Eat Tteokbukki]({{ < /img/quote-i-want-to-die-but-i-want-to-eat-tteokbukki.jpg > }})
+![Quote dari buku I Want To Die but I Want To Eat Tteokbukki](/img/quote-i-want-to-die-but-i-want-to-eat-tteokbukki.jpg)
 
 Aku mengabadikannya di daily journalku karena kebetulan yang sangat waktu aku membaca buku ini dan kepikian tentang ini dan pernah menulis hal serupa tentang ini. Itu direct quote, tapi kalau disuruh men-indirect-kan kutipan tersebut, akan aku tulis persis seperti tulisan ini.
 
