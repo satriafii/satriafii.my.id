@@ -1,5 +1,5 @@
 ---
-title: [ID] Daftar Hal Menyenangkan di Dunia
+title: "[ID] Daftar Hal Menyenangkan di Dunia"
 date: 2024-08-06T16:53:30+07:00
 description: ""
 summary: Setelah sekian lama absen, inilah yang aku temukan.
