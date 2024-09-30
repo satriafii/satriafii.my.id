@@ -1,5 +1,5 @@
 ---
-title: [EN] A Love Letter From My Past Self
+title: "[EN] A Love Letter From My Past Self"
 date: 2024-05-10T18:54:47+07:00
 description: ""
 summary: Hello! I guess you are my future self. Just so you know that your past self is really love you. So I wrote you this.
