@@ -1,5 +1,5 @@
 ---
-title: [ID] View Log Drama Korea Because This is My First Life
+title: "[ID] View Log Drama Korea Because This is My First Life"
 date: 2024-08-07T10:14:25+07:00
 description: ""
 summary: Dulu aku tulis saat aku nonton drama ini ke-sekian kalinya. Drama ini drama korea kesukaanku. I think bakalan seru kalau aku post tulisan-tulian lamaku dari vault obsidian pribadiku begini. So, today I do it. Enjoy!
