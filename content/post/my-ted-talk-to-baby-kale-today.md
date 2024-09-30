@@ -1,5 +1,5 @@
 ---
-title: [EN] My TED Talk To Baby Kale Today - H(you)uman
+title: "[EN] My TED Talk To Baby Kale Today - H(you)uman"
 date: 2024-05-12T16:16:06+07:00
 description: ""
 summary: My baby kale is 7 days old and they need more personal space, so I give them a free TED Talk just to prepare them for this whole new world. In case any human need, I also post it here. In this talk, I will discuss about human problems and their solutions.
