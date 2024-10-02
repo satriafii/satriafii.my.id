@@ -122,13 +122,13 @@ CSS yang aku tulis aslinya hanya line untuk otomatis mengubah mode sesuai prefer
 Akhir kata, aku ingin mengenang bagaimana websiteku dulu terlihat di internet. Aku yakin yang membaca cuma aku saja sih, tapi whatever. Hehehehehehhehehehe
 
 
-![tampilan gelap blog sebelumnya](/img/tampilan-gelap-blog-sebelumnya.png)
+{{< img sizes="(min-width: 35em) 800px, 100vw" src="tampilan-gelap-blog-sebelumnya.png" alt="tampilan gelap blog sebelumnya" >}}
 
 
-![tampilan terang blog sebelumnya](/img/tampilan-terang-blog-sebelumnya.png)
 
+{{< img sizes="(min-width: 35em) 800px, 100vw" src="tampilan-terang-blog-sebelumnya.png" alt="tampilan terang blog sebelumnya" >}}
 
-![tampilan gelap blog post sebelumnya](/img/tampilan-gelap-post-sebelumnya.png)
+{{< img sizes="(min-width: 35em) 800px, 100vw" src="tampilan-gelap-post-sebelumnya.png" alt="tampilan gelap blog post sebelumnya" >}}
 
 Ini beneran akhir kata. Hehehehhee
 

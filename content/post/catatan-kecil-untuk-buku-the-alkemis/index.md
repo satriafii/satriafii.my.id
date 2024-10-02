@@ -14,8 +14,7 @@ draft: false
 Baca di: Moon+ Reader
 Penulis: Paulo Coelho
 Skor/5: ⭐️⭐️⭐️⭐️⭐️
-
-![https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466865542l/18144590._SY475_.jpg](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466865542l/18144590._SY475_.jpg)
+{{< img sizes="(min-width: 35em) 800px, 100vw" src="sampul-buku.jpg" alt="Sampul buku The Alkemis" >}}
 
 Jauh lebih banyak dan memuaskan membaca buku ini. Banyak sekali quotes yang aku kumpulkan dari si Bocah maupun dari sang Alkemis. Rasanya, aku tahu mengapa banyak orang menyarankan semua orang membaca buku ini setelah menyelesaikannya dalam waktu singkat. Secara umum, kesimpulan dari buku ini adalah:
 

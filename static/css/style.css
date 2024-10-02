@@ -10,7 +10,11 @@ body {
 
 a {
 	color: #B7521E;
-text-decoration: none;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration-line: underline;
 }
 
 .content {

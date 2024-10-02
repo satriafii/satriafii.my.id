@@ -26,4 +26,4 @@ Pukul: 10:53
 
 Di buku ini ada 2 jurnal yang ditulis Amos Tversky dan Daniel Kahneman yang masih relevan dengan pokok bahasan buku ini. Mayan, beli buku dapet bonus artikel ilmiah tanpa perlu mencari sumber aslinya.
 
-![Dapat bonus 2 artikel yang ditulis beliau](img/06.10.2022_bonus artikel.jpg)
+{{< img sizes="(min-width: 35em) 800px, 100vw" src="06.10.2022_bonus artikel.jpg" alt="Dapat bonus 2 artikel yang ditulis beliau" >}}

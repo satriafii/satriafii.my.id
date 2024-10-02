@@ -45,7 +45,7 @@ Ada banyak buku lainnya. Diantara banyak buku-buku itu, ingatanku hanya tentang 
 Baru beberapa tahun yang lalu aku sedikit bergeser ke menulis digital karena aku rasa sudah saatnya aku bisa melabeli alat elektronik yang punya keyboard dan layar ini sebagai 'milikku'. Awalnya aku menulis di Notion karena bisa dibuka dimana saja dan kapan saja. Tapi karena alasan itu pula aku meninggalkannya. Karena tambah berat saja sih dibanding aplikasi yang bisa aku buka tanpa koneksi internet. Akhirnya aku pindah ke Obsidian yang menurutku lebih bisa didekati dan dipahami untuk proses pengolahan file sederhana seperti ini. Aku juga jadi belajar banyak hal dengan memutuskan memakai Obsidian. 
 
 File paling awal yang aku buat di Obsidian berdasarkan catatan adalah:
-![History catatan paling tua di vault Obsidianku](img/mulai-menulis.png)
+{{< img sizes="(min-width: 35em) 800px, 100vw" src="mulai-menulis.png" alt="History catatan paling tua di vault Obsidianku" >}}
 
 Tapi aku juga punya beberapa file yang aku tulis pada tanggal 25 Agustus 2021.
 
