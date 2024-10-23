@@ -1,5 +1,5 @@
 ---
-title: [ID] Matanya Cantik Tapi Dia Kucing Kampung
+title: "[ID] Matanya Cantik Tapi Dia Kucing Kampung"
 date: 2024-10-23T08:24:34+07:00
 ---
 
