@@ -1,5 +1,5 @@
 ---
-title: Penjelasan Puisi Matanya Cantik Tapi Dia Kucing Kampung
+title: "[ID] Penjelasan Puisi Matanya Cantik Tapi Dia Kucing Kampung"
 date: 2024-10-23T08:29:04+07:00
 ---
 
