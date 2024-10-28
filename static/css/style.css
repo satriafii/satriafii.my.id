@@ -42,8 +42,9 @@ footer {
 
 .markdown-body {
 	blockquote {
-		border-left: 0.25em solid #643B0F;
+		border-left: 0.15em solid #643B0F;
 		padding: 0 1em;
+		margin-left: 0.55em;
 	}
 }
 
