@@ -1,5 +1,5 @@
 ---
-title: Can-i-just-die
+title: "[EN] Can-i-just-die"
 date: 2024-11-01T20:24:49+07:00
 ---
 
