@@ -1,5 +1,5 @@
 ---
-title: '"[ID] I Scare Me"'
+title: '[ID] I Scare Me'
 date: 2024-11-15T08:23:01+07:00
 ---
 
