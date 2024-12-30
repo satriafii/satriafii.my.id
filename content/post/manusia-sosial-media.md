@@ -18,17 +18,18 @@ Konsumsiku kebanyakan youtube dan twitter sih. Karena hanya dua hal itu yang men
 
 Sebelum hari ini berakhir, aku ingin merangkum apa saja yang aku pelajari hari ini (dari Profesor Yutup tentu saja). Kategorinya adalah:
 #### Lifestyle
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3i0uFcmeVZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="3i0uFcmeVZY" >}}
 
 #### Work life
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZvCGppdE2E0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wDtt24RxdLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="ZvCGppdE2E0" >}}
+{{< youtube id="wDtt24RxdLk" >}}
 
 #### Internet dan Sosial Media
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lTIUfybdDxw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t7STD2ESmWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/He3IJJhFy-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="lTIUfybdDxw" >}}
+{{< youtube id="t7STD2ESmWg" >}}
+{{< youtube id="He3IJJhFy-I" >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sTlkTBdaoP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lFb7BOI_QFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7gSU_Xes3GQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{< youtube id="sTlkTBdaoP4" >}}
+{{< youtube id="lFb7BOI_QFc" >}}
+{{< youtube id="7gSU_Xes3GQ" >}}

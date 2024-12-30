@@ -1,0 +1,24 @@
+{{ partial "header-home.html" . }}
+	
+<!-- This is list of posts area -->
+<p>Berikut ini adalah daftar tulisan yang pernah aku publikasikan di website ini. Aku menulis dalam beberapa bahasa. Beberapa diantaranya dengan pede aku tulis, beberapa diantaranya aku juga masih belajar menulis dalam bahasa tersebut. <i>Default</i> bahasa menulisku dalah Bahasa Indonesia [ID]. Kadang-kadang aku juga menulis dalam Bahasa Inggris [EN]. Aku juga ingin lebih sering menulis dalam Bahasa Jawa [JV] serta belajar menulis dalam Bahasa Korea [KOR]. Emmmmm aku ada rencana untuk translate beberapa tulisan yang bisa aku translate ke beberapa bahasa. Tapi saat ini aku masih mencoba bagaimana caranya agar bisa menampilkannya dengan tetap mempertahankan kesederhanaan dan kemudahan aksesnya di website ini.</p>
+<p>Demikian dan selamat menikmati.</p>
+
+<ul class="home-posts">
+{{ range.Data.Pages }}
+
+<a href="{{ .Permalink }}">
+	<li class="home-post-item">
+	{{ .Title }}
+	<time class="post-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" >
+	{{ .PublishDate.Format "2 January 2006" }}
+	</li>
+</a>
+
+</li>
+{{end}}
+</ul>
+
+<!-- This is end of list of posts area -->
+
+{{ partial "footer.html" . }}

@@ -1,8 +1,15 @@
-{{ partial "header.html" . }}
+{{ partial "header-single.html" . }}
 
-<h1>{{ .Title }}</h1>
+<center>
+	<h1>{{ .Title }}</h1>
+	<i>
+		<time class="post-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" >
+	{{ .PublishDate.Format "2 January 2006" }}
+	</i>
+</center>
+	
 
-<div class="markdown-body">
-{{ .Content }}
-</div>
+	<div class="markdown-body" style="text-align: justify;">
+	{{ .Content }}
+	</div>
 {{ partial "footer.html" . }}

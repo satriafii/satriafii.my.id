@@ -1,15 +1,8 @@
-{{ partial "header.html" . }}
+{{ partial "header-home.html" . }}
 
+<div style="text-align: justify;">
 {{ .Content }}
-
-<h2>Latest posts</h2>
-<ul class="home-posts">
-{{ range ( where .Site.RegularPages "Type" "post" | first 11 ) }}
-<li class="home-posts-item">
-    <time class="post-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .PublishDate.Format "2 January, 2006" }}</time>&nbsp&nbsp<a href="{{ .Permalink }}">{{ .Title }}</a>
-	
-</li>
-{{end}}
-</ul>
+</div>
+<!-- This is end of list of posts area -->
 
 {{ partial "footer.html" . }}

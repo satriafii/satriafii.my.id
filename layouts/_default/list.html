@@ -1,4 +1,4 @@
-{{ partial "header.html" . }}
+{{ partial "header-home.html" . }}
 
 <h1>{{ .Title }}</h1>
 
@@ -9,7 +9,7 @@
 	<ul>
 		<li>
 			<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-		{{ .Date.Format "January 2, 2006" }}</time>
+		{{ .Date.Format "January 2 2006" }}</time>
 			&nbsp
 			<a href="{{ .RelPermalink }}">{{ .Title }}</a>
 		</li>

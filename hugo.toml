@@ -6,3 +6,29 @@ enableEmoji = true
 [imaging]
 
 quality = 55
+
+[menus]
+	[[menus.main]]
+		name = '🏡 Home'
+		pageRef = '/'
+		weight = 1
+	[[menus.main]]
+		name = '📖 Posts'
+		pageRef = '/post'
+		weight = 2
+	[[menus.main]]
+		name = '📚 Consumptions'
+		pageRef = '/consumptions'
+		weight = 3
+	[[menus.main]]
+		name = '🖌️ Creations'
+		pageRef = '/creations'
+		weight = 4
+	[[menus.main]]
+		name = '📸 Photos'
+		pageRef = '/photos'
+		weight = 5
+	[[menus.main]]
+		name = '💭 Thoughts'
+		pageRef = '/thoughts'
+		weight = 6

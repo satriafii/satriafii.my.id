@@ -1,0 +1,15 @@
+{{ partial "header-creations.html" . }}
+
+	<p>
+	This page is dedicated to track things that I’ve made. Cooking recipes, knits, crochets, hand made books, clothes that I hand sew, drawings, fictions, web pages, zines, and other crafts that I will put interest in hehe
+	</p>
+	
+	{{ range.Data.Pages }}
+	<section class="project-item">
+		{{ .Content }}
+	</section>
+	{{ end }}
+
+	
+
+{{ partial "footer.html" . }}

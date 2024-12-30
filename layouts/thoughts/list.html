@@ -1,0 +1,16 @@
+{{ partial "header-thoughts.html" . }}
+
+<p>
+This page is dedicated to short thoughts that came. Think of it like social media. Some of it maybe will be longer edition posted under Posts, but most of them will remain here as a little thoughts. This keep me update the site more often and reduce my willing to update on twitter (or X if you will) hehe
+</p>
+
+{{ range.Data.Pages }}
+	<section class="tweet">
+		<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+		{{ .Date.Format "January 2 2006" }}</time>
+		{{ .Content }}
+	</section>
+{{ end }}
+
+{{ partial "footer.html" . }}
+

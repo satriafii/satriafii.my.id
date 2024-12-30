@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Satriafii</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+		html{
+			margin: 1.2em auto;
+			max-width: 50rem;
+			font-size: 18px;
+		}
+        body {
+            color: #2A2C05;
+        	background-color: #EFE0B9;
+        }
+		a {
+			text-decoration: none;
+			color: #B7521E;
+		}
+		a:hover{
+			text-decoration-line: underline;
+		}
+		.markdown-body {
+			blockquote {
+				border-left: 0.15em solid #643B0F;
+				padding: 0 0.5rem;
+			}
+		}
+		@media (prefers-color-scheme: dark) {
+			body {
+				background: #643B0F;
+				color: #E4B04A
+			}
+	
+			a {
+				color: #EFE0B9;
+			}
+	
+			.markdown-body {
+				blockquote {
+					border-left: 0.15em solid #E4B04A;
+				}
+			}
+		}
+		
+		/* the body(?) styles, setiap page harus diedit menyesuaikan attribut nya */
+		
+		.home-post-item{
+			list-style: none;
+			margin: 0.5rem;
+		}
+		.home-post-item:hover {
+			background-color: #fdfdfd;
+		}
+				}
+		.home-post {
+			padding: 0;
+		}
+		
+		.markdown-body img {
+			margin: auto;
+			display: block;
+		}
+				
+		@media (prefers-color-scheme: dark) {
+			.home-post-item:hover {
+			background-color: #2A2C05;
+		}
+		
+	</style>
+</head>
+
+<body>
+
+{{ partial "nav.html" . }}
+
+<main class="content">
