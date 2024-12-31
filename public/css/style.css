@@ -1,7 +1,7 @@
 body {
 	color: #2A2C05;
 	background-color: #EFE0B9;
-	font-size: 110%;
+	font-size: 95%;
 	line-height: 1;
 	max-width: 45rem;
 	padding: 1rem;
@@ -42,8 +42,9 @@ footer {
 
 .markdown-body {
 	blockquote {
-		border-left: 0.25em solid #643B0F;
+		border-left: 0.15em solid #643B0F;
 		padding: 0 1em;
+		margin-left: 0.55em;
 	}
 }
 

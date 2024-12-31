@@ -1,35 +1,110 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-
-	<meta charset="UTF-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-	<title>[ID] Heteroskedastisitas | Satriafii</title>
-
-	<link rel="stylesheet" href="/css/style.css" type="text/css" media="all" />
-
-	</head>
+    <title>Satriafii</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+		html{
+			margin: 1.2em auto;
+			max-width: 50rem;
+			font-size: 18px;
+		}
+        body {
+            color: #2A2C05;
+        	background-color: #EFE0B9;
+        }
+		a {
+			text-decoration: none;
+			color: #B7521E;
+		}
+		a:hover{
+			text-decoration-line: underline;
+		}
+		.markdown-body {
+			blockquote {
+				border-left: 0.15em solid #643B0F;
+				padding: 0 0.5rem;
+			}
+		}
+		@media (prefers-color-scheme: dark) {
+			body {
+				background: #643B0F;
+				color: #E4B04A
+			}
+	
+			a {
+				color: #EFE0B9;
+			}
+	
+			.markdown-body {
+				blockquote {
+					border-left: 0.15em solid #E4B04A;
+				}
+			}
+		}
+		
+		 
+		
+		.home-post-item{
+			list-style: none;
+			margin: 0.5rem;
+		}
+		.home-post-item:hover {
+			background-color: #fdfdfd;
+		}
+				}
+		.home-post {
+			padding: 0;
+		}
+		
+		.markdown-body img {
+			margin: auto;
+			display: block;
+		}
+				
+		@media (prefers-color-scheme: dark) {
+			.home-post-item:hover {
+			background-color: #2A2C05;
+		}
+		
+	</style>
+</head>
 
 <body>
 
-<header class="site-header">
-  <nav class="site-nav">
-    <h2><a class="logo" href="http://localhost:1313/">
-      Satriafii
-    </a></h2>
-    <ul class="main-menu">
-      
-    </ul>
-  </nav>
-</header>
+<nav class="site-nav">
+
+		<center>
+		
+		<a href="/" style="margin: 0.45em;">🏡 Home</a>
+		
+		<a href="/post/" style="margin: 0.45em;">📖 Posts</a>
+		
+		<a href="/consumptions/" style="margin: 0.45em;">📚 Consumptions</a>
+		
+		<a href="/creations/" style="margin: 0.45em;">🖌️ Creations</a>
+		
+		<a href="/photos/" style="margin: 0.45em;">📸 Photos</a>
+		
+		<a href="/thoughts/" style="margin: 0.45em;">💭 Thoughts</a>
+		
+		</center>
+</nav>
 
 <main class="content">
 
-<h1>[ID] Heteroskedastisitas</h1>
+<center>
+	<h1>[ID] Heteroskedastisitas</h1>
+	<i>
+		<time class="post-date" datetime="2023-08-13T10:53:43&#43;07:00" >
+	13 August 2023
+	</i>
+</center>
+	
 
-<div class="markdown-body">
-<p>Sebelum disuruh ganti judul, aku harus menguji ini dulu sebelum bisa regresi. Hasilnya jelek. Makanya aku bikin satu catatan khusus dan baca apapun yang terkait dengan ini dalam waktu sangat singkat. Intinya, begini:</p>
+	<div class="markdown-body" style="text-align: justify;">
+	<p>Sebelum disuruh ganti judul, aku harus menguji ini dulu sebelum bisa regresi. Hasilnya jelek. Makanya aku bikin satu catatan khusus dan baca apapun yang terkait dengan ini dalam waktu sangat singkat. Intinya, begini:</p>
 <p>Uji heteroskedastisitas digunakan untuk melihat apakah ada ketidaksamaan varian dari residual pengamatan yang satu ke pengamatan lainnya. Berikut adalah beberapa metode untuk menguji ada tidaknya masalah heteroskedastisitas:</p>
 <ul>
 <li>Metode Grafik</li>
@@ -45,14 +120,14 @@
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Uji</th>
-          <th style="text-align: left">Aturan main</th>
+          <th>Uji</th>
+          <th>Aturan main</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">Spearman Rho</td>
-          <td style="text-align: left">Jika nilai signifikansi lebih besar dari 0,05 berarti residual varians tidak mengalami heteroskedastisitas. Apabila nilai signifikansi kurang dari 0,05 maka residual varians mengalami heteroskedastisitas.</td>
+          <td>Spearman Rho</td>
+          <td>Jika nilai signifikansi lebih besar dari 0,05 berarti residual varians tidak mengalami heteroskedastisitas. Apabila nilai signifikansi kurang dari 0,05 maka residual varians mengalami heteroskedastisitas.</td>
       </tr>
   </tbody>
 </table>
@@ -79,12 +154,11 @@
 </ul>
 <p>Sumber: <a href="https://archive.org/details/basiceconometric0000guja_g4u9">Dasar-dasar ekonometrika</a> oleh Gujarati yang bisa diakses di internet archive atau perpustakaan kampus yang menyediakan (aku dikasih bukunya sama seorang teman yang baik hati, btw hehe).</p>
 
-</div>
-</main>
-	
-<footer>
-	<p><a href="/"> 🏠 Home</a>&nbsp&nbsp&nbsp<a href="/post/"> 📖 More Posts</a>&nbsp&nbsp&nbsp<a href="mailto:heysatriafi@gmail.com"> 📧 E-Mail Me</a>&nbsp&nbsp&nbsp &copy;2024 Satriafii</p>
-</footer>
+	</div>
 
-</body>
+<footer>
+	   <center>
+	   <p>2024 - <a href="/post/how-i-make-this-site">Hand made</a> by <a href="/">Satriafii</a> with <a href="https://gohugo.io/">Hugo</a></p>
+	   </center>
+</footer>
 </html>

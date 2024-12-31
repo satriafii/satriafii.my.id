@@ -2,13 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/post/menetapkan-pilihan-untuk-yang-satu-ini/</loc>
-    <lastmod>2024-10-02T20:01:57+07:00</lastmod>
+    <loc>http://localhost:1313/creations/</loc>
+    <lastmod>2024-12-28T14:32:22+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/creations/2025-handmade-book/</loc>
+    <lastmod>2024-12-28T14:32:22+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-10-02T20:01:57+07:00</lastmod>
+    <lastmod>2024-12-28T14:32:22+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/how-i-make-this-site/</loc>
+    <lastmod>2024-12-28T13:05:37+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hugo/</loc>
+    <lastmod>2024-12-28T13:05:37+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/indie-web/</loc>
+    <lastmod>2024-12-28T13:05:37+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/</loc>
+    <lastmod>2024-12-28T13:05:37+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/reflection/</loc>
+    <lastmod>2024-12-28T13:05:37+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/self-intro/</loc>
+    <lastmod>2024-12-28T13:05:37+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-12-28T13:05:37+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/web-dev/</loc>
+    <lastmod>2024-12-28T13:05:37+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/website/</loc>
+    <lastmod>2024-12-28T13:05:37+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/silakan-curi-sesuatu-disini/</loc>
+    <lastmod>2024-12-28T13:02:15+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/i-scare-me/</loc>
+    <lastmod>2024-11-15T08:23:01+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/kue-sarang-laba-laba/</loc>
+    <lastmod>2024-11-04T08:59:09+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/can-i-just-die/</loc>
+    <lastmod>2024-11-01T20:24:49+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/penjelasan-puisi-mata-kucing-kampung/</loc>
+    <lastmod>2024-10-23T08:29:04+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/matanya-cantik-tapi-dia-kucing-kampung/</loc>
+    <lastmod>2024-10-23T08:24:34+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/sing-dipangan-yo-kudu-dipakani/</loc>
+    <lastmod>2024-10-22T08:41:01+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/lets-talk-about-nothing/</loc>
+    <lastmod>2024-10-16T11:39:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/bagaimana-orang-sehat-menghadapi-emosi-negatifnya/</loc>
+    <lastmod>2024-10-05T18:58:37+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/menetapkan-pilihan-untuk-yang-satu-ini/</loc>
     <lastmod>2024-10-02T20:01:57+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/tentang-menyukai-dan-membenci-orang-lain/</loc>
@@ -18,15 +75,6 @@
     <lastmod>2024-09-29T18:43:57+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/apa-yang-terjadi-akhir-akhir-ini/</loc>
-    <lastmod>2024-08-08T17:36:47+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/reflection/</loc>
-    <lastmod>2024-08-08T17:36:47+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/self-intro/</loc>
-    <lastmod>2024-08-08T17:36:47+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-08-08T17:36:47+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/view-log-because-this-is-my-first-life/</loc>
@@ -120,9 +168,6 @@
     <lastmod>2023-08-22T12:50:35+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/cara-belajar/</loc>
-    <lastmod>2023-08-22T12:50:35+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2023-08-22T12:50:35+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/obsidian/</loc>
@@ -287,6 +332,18 @@
     <loc>http://localhost:1313/tags/perjalanan/</loc>
     <lastmod>2023-06-12T18:42:21+07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/thoughts/0/</loc>
+    <lastmod>1999-03-04T19:26:29+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/</loc>
+    <lastmod>1999-03-04T19:26:29+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/consumptions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/creations/crochet-bandana/</loc>
+  </url><url>
+    <loc>http://localhost:1313/photos/</loc>
   </url>
 </urlset>
