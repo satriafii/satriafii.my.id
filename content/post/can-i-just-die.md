@@ -30,7 +30,7 @@ But have only busy and kind friends (i don't want to see them listen to my sadne
 
 Want to hug people that have sad face
 
-But I'm to cold to hug anybody
+But I'm too cold to hug anybody
 
 
 I scream just to make someone hear how much pain I hold.

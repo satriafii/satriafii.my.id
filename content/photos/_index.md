@@ -2,7 +2,7 @@
 title: "Photos"
 ---
 
-- ![](/photos/resized_IMG_20241225_134545.jpg)
+- [![My first handmande book for 2025 journal](/photos/resized_IMG_20241225_134545.jpg)](/post/2025-handmade-book-for-journaling)
 - ![](/photos/resized_IMG_20241225_134512.jpg)
 - ![](/photos/resized_IMG_20241225_114642.jpg)
 - ![](/photos/resized_IMG_20241213_182548.jpg)
@@ -72,7 +72,7 @@ title: "Photos"
 - ![](/photos/IMG_20231130_170437.jpg)
 - ![](/photos/IMG_20231130_164855.jpg)
 - ![](/photos/IMG_20231130_174341.jpg)
-- ![](/photos/_resized_IMG_20231119_141210.jpg)
+- ![](/photos/resized_IMG_20231119_141210.jpg)
 - ![](/photos/IMG_20231009_165901.jpg)
 - ![](/photos/resized_IMG_20230222_172432.jpg)
 - ![](/photos/resized_IMG_20230222_151543.jpg)

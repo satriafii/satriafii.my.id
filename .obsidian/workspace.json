@@ -11,10 +11,14 @@
             "id": "86ce25f7e2cd0555",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/post/2025-handmade-book-for-journaling.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-handmade-book-for-journaling"
             }
           }
         ]
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0e913fa5a871ad24",
@@ -154,6 +158,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86ce25f7e2cd0555",
-  "lastOpenFiles": []
+  "active": "0016592ee8a41d90",
+  "lastOpenFiles": [
+    "content/post/can-i-just-die.md",
+    "content/post/2025-handmade-book-for-journaling.md",
+    "content/photos/~MG-20240503-WA0021.tmp",
+    "content/photos/_index.md",
+    "content/creations/2025-handmade-book.md",
+    "archetypes/default.md",
+    "Untitled.md"
+  ]
 }
