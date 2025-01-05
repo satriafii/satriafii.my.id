@@ -14,15 +14,15 @@ Sejak 2016 sampai 2021, aku selalu membuat buku *hardcover* untuk journal harian
 
 Tahun 2023 aku ingat tidak terlalu bersemangat membuat buku karena jurnal tahun 2022-ku pun tidak terisi penuh di analog. Aku lebih banyak mengetik di Obsidian dan sebanyak apapun itu, tetap saja tidak terasa apapun karena tidak pernah aku baca ulang. Karena itu aku sempat berpikir kalau menulis analog tidak terlalu perlu. Didukung aku yang juga pindah rumah, sehingga waktu untuk membuat buku nyaris tidak ada. Tapi aku tetap membuat beberapa buku untuk menulis. Akhirnya pun aku menulis juga di buku-buku itu. Perbedaan yang paling mencolok dibanding tahun-tahun sebelumnya adalah aku menggunakan ukuran A6 untuk tahun 2023. 
 
-{{< img sizes="(max-width: 380px) 100vw, (max-width: 700px) 380px, 50vw" src="IMG_20240125_110124.jpg" alt="Buku-buku handmade yang aku jadikan jurnal pada tahun 2023" >}}
+![Buku-buku handmade yang aku jadikan jurnal pada tahun 2023](IMG_20240125_110124.jpg)
 
 Awalnya merasa agak aneh karena bentuknya setengah dari ukuran biasa. Seiring berjalannya waktu, justru aku semakin menyukai ukuran A6 dibanding A5. Meskipun tidak bisa masuk ke kantong celana perempuanku yang minim itu, tapi setidaknya bisa kumasukkan ke tas tanganku dengan nyaman dan tidak terlalu makan tempat. Aku juga memutuskan untuk membeli pouch berbahan plastik untuk melindungi mereka saking kecil dan imutnya mereka ❤️
 
-{{< img sizes="(max-width: 380px) 100vw, (max-width: 700px) 380px, 50vw" src="IMG_20240106_112617.jpg" alt="Empat buku pertama tahun 2023 yang aku sampul dengan lukisanku" >}}
+![Empat buku pertama tahun 2023 yang aku sampul dengan lukisanku](IMG_20240106_112617.jpg)
 
 Akhirnya tahun 2024 aku membuat buku A6 dengan sedikit lebih niat dibanding sebelumnya. Aku membuat 12 buku dengan masing-masing 64 halaman. Tapi masih sama dengan tahun-tahun sebelumnya, aku masih menyukai metode membuat text block lalu disampuli. Empat buku pertama aku sampul dengan sangat artistik hehehe Empat buku lainnya aku sampul seadanya saja. Empat buku lainnya mereka kubiarkan telanjang, alias tidak kusampuli dan berhenti sampai text-block saja.
 
-{{< img sizes="(max-width: 380px) 100vw, (max-width: 700px) 380px, 50vw" src="IMG_20240205_185508.jpg" alt="Sembilan buku A6 yang selesai aku buat" >}}
+![Sembilan buku A6 yang selesai aku buat](IMG_20240205_185508.jpg)
 
 Meskipun terlihat sekali bagaimana semangatku sangat bervariasi saat membuat jurnal tahun lalu, kedua belas buku yang aku buat dengan semangat bermacam-macam itu selesai aku buat dan kugunakan. Bahkan beberapa bulan aku merasa sangat kurang dan harus menghemat halaman di akhir bulan. Itu karena sejak awal aku memang merencanakan hanya menghabiskan 2 halaman saja setiap hari.
 
@@ -32,7 +32,7 @@ Dengan menulis, setidaknya, aku berbicara dengan diriku sendiri.
 
 Karenanya aku ingin memperbaiki "kesalahan"ku tahun lalu dengan membuat buku yang lebih tebal dan membiarkan diriku yang akan menulis di buku-buku itu menghabiskan sebanyak atau sesedikit mungkin halaman dari buku itu. Aku ingin menggunakan buku buatanku sebagai *morning pages*, *interstitial journaling*, *reading log*, *sketch book*, oret-oretan, dan lain sebagainya. Aku juga ingin keluar dari zona nyamanku yang hanya 64 halaman untuk satu bulan itu. Akhirnya, aku membuat buku dengan minimal 96 halaman, tapi lebih banyak lagi 128 halaman. Ukurannya masih A6 karena aku masih sangat suka dengan ukuran ini. 
 
-{{< img sizes="(max-width: 380px) 100vw, (max-width: 700px) 380px, 50vw" src="IMG_20241225_134545.jpg" alt="Buku pertama yang selesai aku buat untuk jurnal tahun 2025" >}}
+![Buku pertama yang selesai aku buat untuk jurnal tahun 2025](IMG_20241225_134545.jpg)
 
 Itu adalah buku pertamaku. Tahun ini aku juga mencoba metode binding baru. Sebenarnya aku pernah mencoba metode ini, tapi seingatku dulu aku mencobanya di *hardcover* jadi usaha yang diperlukan jauh lebih banyak. Kali ini aku menggunakan *softcover* saja karena aku juga ingin mempertahakankan seni artistik tahun lalu hehehe Alias aku ingin melukis sendiri sampul bukuku. Buku pertama itu bersampul kertas gambar biasa yang aku lukis dengan cat air.
 
