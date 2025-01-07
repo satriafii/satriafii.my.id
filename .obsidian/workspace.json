@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8ba072c3e42a6c10",
+        "id": "7b365088324614b5",
         "type": "tabs",
         "children": [
           {
-            "id": "bc0db1d7ba200e50",
+            "id": "ebac9c0bd1f15167",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/consumptions/_index.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "New tab"
             }
           }
         ]
@@ -158,29 +154,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc0db1d7ba200e50",
+  "active": "0016592ee8a41d90",
   "lastOpenFiles": [
+    "public/post/per-website-an-hari-ini/index.html",
+    "public/post/per-website-an-hari-ini",
+    "content/post/per-website-an-hari-ini.md",
+    "content/thoughts/2025-01-07_3.md",
+    "content/thoughts/2025-01-07_2.md",
+    "content/thoughts/2025-01-07_1.md",
     "content/thoughts/2025-01-07.md",
+    "archetypes/posts.md",
+    "archetypes/thoughts.md",
+    "archetypes/creations.md",
+    "content/templates",
+    "public/thoughts/2025-01-07_3/index.html",
+    "public/thoughts/2025-01-07_3",
+    "public/thoughts/2025-01-07_2/index.html",
+    "public/thoughts/2025-01-07_2",
+    "content/_index.md",
+    "content/photos/_index.md",
+    "content/consumptions/_index.md",
     "public/tags/reading/index.xml",
     "public/tags/reading/index.html",
     "public/tags/reading",
     "public/post/the-book-swap-book-review/index.html",
-    "public/post/the-book-swap-book-review",
-    "content/thoughts/2025-01-07_1.md",
     "content/post/The-Book-Swap-Book-Review.md",
-    "public/thoughts/2025-01-07_1/index.html",
-    "public/thoughts/2025-01-07_1",
-    "content/consumptions/_index.md",
     "content/creations/2025-handmade-book.md",
     "content/post/Why-Secretary-Kim-Book-Review.md",
-    "public/post/why-secretary-kim-book-review/index.html",
-    "public/post/why-secretary-kim-book-review",
-    "public/thoughts/2025-01-07/index.html",
     "percobaan.md",
     "content/thoughts/0.md",
     "content/post/can-i-just-die.md",
     "content/post/2025-handmade-book-for-journaling.md",
-    "content/photos/_index.md",
     "archetypes/default.md"
   ]
 }

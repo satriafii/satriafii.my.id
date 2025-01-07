@@ -1,6 +1,7 @@
 ---
 title: "Photos"
 ---
+Halaman ini akan sedikit lebih lama dimuatnya dibanding halaman-halaman lain di websiteku. Alasannya karena foto-foto yang aku upload disini lumayan banyak dan sedikit lebih **berat** dibanding konten lainnya. Meskipun demikian, beberapa foto sudah aku perkecil sebisaku, tapi kalau ingin minta versi foto yang lebih jelas dibanding yang ada disini, bisa hubungi aku saja ya.
 
 - [![My first handmande book for 2025 journal](/photos/resized_IMG_20241225_134545.jpg)](/post/2025-handmade-book-for-journaling)
 - ![](/photos/resized_IMG_20241225_134512.jpg)

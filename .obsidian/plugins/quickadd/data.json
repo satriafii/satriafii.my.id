@@ -2,9 +2,9 @@
   "choices": [
     {
       "id": "72761af9-95c2-4efc-be5d-e052caeec562",
-      "name": "posts",
+      "name": "add tags",
       "type": "Capture",
-      "command": false,
+      "command": true,
       "appendLink": false,
       "captureTo": "",
       "captureToActiveFile": true,
@@ -15,7 +15,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "---\ntitle: \"{{value}}\"\ndate: {{DATE:YYYY-MM-DD}}T{{time:HH:mm:ss}}+07:00\ntag: [\"\",]\n---"
+        "format": "tag: [\"{{value}}\", ]\n---"
       },
       "insertAfter": {
         "enabled": false,
@@ -37,9 +37,9 @@
     },
     {
       "id": "2d2ec84e-1ad7-4cd4-8628-3ab2ca83b8fc",
-      "name": "thoughts",
+      "name": "add value",
       "type": "Capture",
-      "command": false,
+      "command": true,
       "appendLink": false,
       "captureTo": "",
       "captureToActiveFile": true,
@@ -50,7 +50,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "---\ndate: {{DATE:YYYY-MM-DD}}T{{TIME:HH:mm:ss}}+07:00\n---\n\n{{value}}"
+        "format": "{{value}}"
       },
       "insertAfter": {
         "enabled": false,
@@ -60,42 +60,7 @@
         "createIfNotFound": false,
         "createIfNotFoundLocation": "top"
       },
-      "prepend": false,
-      "task": false,
-      "openFileInNewTab": {
-        "enabled": false,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": false,
-      "openFileInMode": "default"
-    },
-    {
-      "id": "f6cb1498-91d4-4c42-aa84-8fc359edfe33",
-      "name": "creations",
-      "type": "Capture",
-      "command": false,
-      "appendLink": false,
-      "captureTo": "",
-      "captureToActiveFile": true,
-      "createFileIfItDoesntExist": {
-        "enabled": false,
-        "createWithTemplate": false,
-        "template": ""
-      },
-      "format": {
-        "enabled": true,
-        "format": "---\ntitle: {{title}}\ndate: {{DATE:YYYY-MM-DD}}T{{TIME:HH:mm:ss}}+07:00\n---\n\n{{value}}"
-      },
-      "insertAfter": {
-        "enabled": false,
-        "after": "",
-        "insertAtEnd": false,
-        "considerSubsections": false,
-        "createIfNotFound": false,
-        "createIfNotFoundLocation": "top"
-      },
-      "prepend": false,
+      "prepend": true,
       "task": false,
       "openFileInNewTab": {
         "enabled": false,
