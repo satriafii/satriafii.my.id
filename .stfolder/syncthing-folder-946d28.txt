@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: haye0-jjwlc
+created: 2025-01-07T06:56:26+07:00

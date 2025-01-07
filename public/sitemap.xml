@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/thoughts/2025-01-07/</loc>
+    <lastmod>2025-01-07T05:43:52+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-01-07T05:43:52+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/</loc>
+    <lastmod>2025-01-07T05:43:52+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/post/2025-handmade-book-for-journaling/</loc>
     <lastmod>2025-01-03T07:23:18+07:23</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/bookbinding/</loc>
-    <lastmod>2025-01-03T07:23:18+07:23</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2025-01-03T07:23:18+07:23</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/journal/</loc>
@@ -340,12 +346,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/perjalanan/</loc>
     <lastmod>2023-06-12T18:42:21+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/thoughts/0/</loc>
-    <lastmod>1999-03-04T19:26:29+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/thoughts/</loc>
-    <lastmod>1999-03-04T19:26:29+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>

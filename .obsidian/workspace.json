@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "86ce25f7e2cd0555",
+            "id": "bc0db1d7ba200e50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/2025-handmade-book-for-journaling.md",
+                "file": "content/consumptions/_index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-handmade-book-for-journaling"
+              "title": "_index"
             }
           }
         ]
@@ -158,14 +158,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0016592ee8a41d90",
+  "active": "bc0db1d7ba200e50",
   "lastOpenFiles": [
+    "content/thoughts/2025-01-07.md",
+    "public/tags/reading/index.xml",
+    "public/tags/reading/index.html",
+    "public/tags/reading",
+    "public/post/the-book-swap-book-review/index.html",
+    "public/post/the-book-swap-book-review",
+    "content/thoughts/2025-01-07_1.md",
+    "content/post/The-Book-Swap-Book-Review.md",
+    "public/thoughts/2025-01-07_1/index.html",
+    "public/thoughts/2025-01-07_1",
+    "content/consumptions/_index.md",
+    "content/creations/2025-handmade-book.md",
+    "content/post/Why-Secretary-Kim-Book-Review.md",
+    "public/post/why-secretary-kim-book-review/index.html",
+    "public/post/why-secretary-kim-book-review",
+    "public/thoughts/2025-01-07/index.html",
+    "percobaan.md",
+    "content/thoughts/0.md",
     "content/post/can-i-just-die.md",
     "content/post/2025-handmade-book-for-journaling.md",
-    "content/photos/~MG-20240503-WA0021.tmp",
     "content/photos/_index.md",
-    "content/creations/2025-handmade-book.md",
-    "archetypes/default.md",
-    "Untitled.md"
+    "archetypes/default.md"
   ]
 }
