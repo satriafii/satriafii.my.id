@@ -1,1 +1,15 @@
-{}
+{
+  "mobileToolbarCommands": [
+    "editor:attach-file",
+    "editor:undo",
+    "editor:redo",
+    "insert-template",
+    "quickadd:runQuickAdd",
+    "command-palette:open",
+    "insert-current-time",
+    "editor:paste",
+    "editor:copy",
+    "editor:cut"
+  ],
+  "mobilePullAction": "editor:save-file"
+}
