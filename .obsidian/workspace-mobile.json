@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "af6ce0d3421974dc",
+        "id": "d3c10ab86cdee6cd",
         "type": "tabs",
         "children": [
           {
-            "id": "fa6416327bafa1b8",
+            "id": "afd6b07a6bc31eee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "public/thoughts/2025-01-08_9.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-01-08_9"
+              "title": "New tab"
             }
           }
         ]
@@ -83,7 +79,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "right": {
     "id": "a34699bdd49b3949",
@@ -141,8 +137,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa6416327bafa1b8",
+  "active": "ee6b8f295b8cb998",
   "lastOpenFiles": [
+    "public/thoughts/Most played This week.jpg",
+    "content/thoughts/2025-01-09_03.md",
+    "content/thoughts/2025-01-09_04.md",
+    "content/thoughts/2025-01-09_02.md",
+    "content/thoughts/2025-01-09_01.md",
     "public/thoughts/2025-01-08_9.md",
     "2025-01-08_8.md",
     "2025-01-08_6.md",

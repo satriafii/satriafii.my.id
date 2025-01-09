@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "type": "folder",
+      "ctime": 1736396297496,
+      "path": "content/thoughts",
+      "title": "Thoughts"
+    },
+    {
+      "type": "folder",
+      "ctime": 1736396311354,
+      "path": "content/post",
+      "title": "Post"
+    },
+    {
+      "type": "folder",
+      "ctime": 1736396324202,
+      "path": "content/photos",
+      "title": "Photos"
+    }
+  ]
+}
