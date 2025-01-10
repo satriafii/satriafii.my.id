@@ -5,7 +5,7 @@ This page is dedicated to short thoughts that came. Think of it like social medi
 </p>
 
 {{ range.Data.Pages }}
-	<section class="tweet">
+	<section class="tweet markdown-body">
 		<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
 		{{ .Date.Format "January 2, 2006" }}</time>
 		{{ .Content }}
