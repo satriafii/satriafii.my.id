@@ -7,7 +7,7 @@ tags: ["website", "web-dev", "indie-web"]
 
 Halo, tulisan ini bertujuan untuk memberikan jejak yang jelas bagaimana aku memutuskan bagimana konten di website ini boleh dikonsumsi. Mungkin ini bisa disebut dengan *copyright*? Sejujurnya aku masih kurang tahu apa itu *copyright* selain produksi artis besar atau perusahaan besar. Tapi setidaknya aku ingin menjelaskan apa yang boleh dan tidak boleh dilakukan dengan konten yang aku pamerkan disini. Aku belum pernah tahu contoh seperti ini di Indonesia. Tapi aku mau coba aja. Oke, mari dimulai.
 
-Konten di website ini bisa diakses dengan bebas oleh siapapun melalui [link github berikut](https://github.com/).
+Konten di website ini bisa diakses dengan bebas oleh siapapun melalui [link github berikut](https://github.com/satriafii/satriafii.my.id).
 
 Semua tulisan dan gambar di website ini baik yang terlihat maupun yang tidak terlihat (di bagian kode nya) **boleh dipakai** untuk *kepentingan pribadi*, aku akan sangat berterima kasih kalau dalam penggunaanya masih mengingatku alias nama satriafii serta link ke website ini dicantumkan. Apabila dibutuhkan untuk **keperluan yang dijual-belikan atau bagaimanapun caranya yang akan menghasilkan keuntungan finansial bagi yang menggunakan**, alangkah baiknya kalau kamu [*menghubungi aku*](mailto:heysatriafi@gmail.com) dulu ya.
 
