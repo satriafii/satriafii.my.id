@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d3c10ab86cdee6cd",
+        "id": "588347b8e13ad1ed",
         "type": "tabs",
         "children": [
           {
-            "id": "afd6b07a6bc31eee",
+            "id": "a13ccd57d7a62f54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/thoughts/2025-01-15_02/index.md",
+                "file": "content/thoughts/2025-01-24_02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2025-01-24_02"
             }
           }
         ]
@@ -141,17 +141,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afd6b07a6bc31eee",
+  "active": "a13ccd57d7a62f54",
   "lastOpenFiles": [
-    "content/thoughts/2025-01-15_01/index.md",
-    "content/thoughts/2025-01-15_02/index.md",
-    "content/thoughts/2025-01-15_02",
+    "content/post/rutinitas.md",
+    "content/thoughts/2025-01-24_02.md",
+    "content/thoughts/2025-01-24_01.md",
+    "content/thoughts/2025-01-23_2.md",
+    "content/thoughts/2025-01-13_1/index.md",
+    "content/thoughts/index.md",
+    "content/thoughts/2025-01-23_1.md",
+    "content/thoughts/2025-01-23.md",
     "content/thoughts/Screenshot_2025-01-15-10-16-41-233.jpg",
+    "content/thoughts/2025-01-15_02/index.md",
+    "content/thoughts/2025-01-15_01/index.md",
+    "content/thoughts/2025-01-15_02",
     "content/thoughts/Screenshot_2025-01-15-10-16-29-204.jpg",
     "content/_index.md",
     "content/thoughts/2025-01-15_01",
     "content/thoughts/2025-01-13_1",
-    "content/thoughts/2025-01-13_1/index.md",
     "content/thoughts/2025-01-11_3.md",
     "content/thoughts/2025-01-11_2.md",
     "content/thoughts/2025-01-11/index.md",
@@ -168,9 +175,6 @@
     "content/thoughts/2025-01-09_04.md",
     "content/thoughts/2025-01-09_02.md",
     "content/thoughts/2025-01-09_01.md",
-    "public/thoughts/2025-01-08_9.md",
-    "2025-01-08_8.md",
-    "2025-01-08_6.md",
-    "2025-01-08_7.md"
+    "public/thoughts/2025-01-08_9.md"
   ]
 }
