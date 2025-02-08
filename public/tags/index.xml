@@ -6,13 +6,34 @@
     <description>Recent content in Tags on Satriafii</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jan 2025 10:45:42 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 10:41:22 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Belajar</title>
       <link>http://localhost:1313/tags/belajar/</link>
-      <pubDate>Tue, 07 Jan 2025 10:45:42 +0700</pubDate>
+      <pubDate>Sat, 08 Feb 2025 10:41:22 +0700</pubDate>
       <guid>http://localhost:1313/tags/belajar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Buku</title>
+      <link>http://localhost:1313/tags/buku/</link>
+      <pubDate>Sat, 08 Feb 2025 10:41:22 +0700</pubDate>
+      <guid>http://localhost:1313/tags/buku/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Indonesia</title>
+      <link>http://localhost:1313/tags/indonesia/</link>
+      <pubDate>Sat, 08 Feb 2025 10:41:22 +0700</pubDate>
+      <guid>http://localhost:1313/tags/indonesia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Perilaku Manusia</title>
+      <link>http://localhost:1313/tags/perilaku-manusia/</link>
+      <pubDate>Thu, 23 Jan 2025 10:42:44 +0700</pubDate>
+      <guid>http://localhost:1313/tags/perilaku-manusia/</guid>
       <description></description>
     </item>
     <item>
@@ -34,13 +55,6 @@
       <link>http://localhost:1313/tags/website/</link>
       <pubDate>Tue, 07 Jan 2025 10:45:42 +0700</pubDate>
       <guid>http://localhost:1313/tags/website/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Buku</title>
-      <link>http://localhost:1313/tags/buku/</link>
-      <pubDate>Tue, 07 Jan 2025 08:05:36 +0700</pubDate>
-      <guid>http://localhost:1313/tags/buku/</guid>
       <description></description>
     </item>
     <item>
@@ -251,13 +265,6 @@
       <link>http://localhost:1313/tags/hubungan-antar-manusia/</link>
       <pubDate>Sun, 20 Aug 2023 21:04:29 +0700</pubDate>
       <guid>http://localhost:1313/tags/hubungan-antar-manusia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Perilaku Manusia</title>
-      <link>http://localhost:1313/tags/perilaku-manusia/</link>
-      <pubDate>Sun, 20 Aug 2023 21:04:29 +0700</pubDate>
-      <guid>http://localhost:1313/tags/perilaku-manusia/</guid>
       <description></description>
     </item>
     <item>

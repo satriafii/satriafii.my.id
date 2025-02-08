@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cef7016594ecb554",
+        "id": "efe14048bd91f30d",
         "type": "tabs",
         "children": [
           {
-            "id": "4b5c35e4ea07f002",
+            "id": "22c091d5d2662c68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/my-uses.md",
+                "file": "content/creations/buku-digital-domain-publik.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "my-uses"
+              "title": "buku-digital-domain-publik"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -156,13 +157,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b5c35e4ea07f002",
+  "active": "22c091d5d2662c68",
   "lastOpenFiles": [
+    "public/post/rutinitas/index.html",
+    "public/post/rutinitas",
+    "content/creations/2025-handmade-book.md",
+    "content/creations/buku-digital-domain-publik.md",
+    "public/creations/buku-digital-domain-publik/index.html",
+    "public/creations/buku-digital-domain-publik",
+    "public/creations/untitled/index.html",
+    "public/creations/untitled",
+    "content/post/kumpulan-buku-domain-publik-Indonesia.md",
+    "public/post/kumpulan-buku-domain-publik-indonesia/index.html",
+    "public/post/kumpulan-buku-domain-publik-indonesia",
+    "static/docs/abunawas-jilid-1-digital.pdf",
+    "static/docs/abunawas-jilid-1-digital.epub",
+    "static/docs",
+    "content/thoughts/2025-02-08.md",
+    "content/post/crochet-bandana.md",
+    "content/post/my-uses.md",
     "content/thoughts/2025-01-27_02.md",
     "content/thoughts/2025-01-27_01/index.md",
     "content/thoughts/Screenshot_2025-01-26-21-33-38-655.jpg",
-    "content/thoughts/2025-01-27_01",
-    "content/post/my-uses.md",
     "content/post/per-website-an-hari-ini.md",
     "README.md",
     "content/thoughts/2025-01-08_3.md",
@@ -171,8 +187,6 @@
     "content/thoughts/2025-01-08_5.md",
     "content/thoughts/2025-01-08.md",
     "content/thoughts/2025-01-08_1.md",
-    "public/post/per-website-an-hari-ini/index.html",
-    "public/post/per-website-an-hari-ini",
     "content/thoughts/2025-01-07_3.md",
     "content/thoughts/2025-01-07_2.md",
     "content/thoughts/2025-01-07_1.md",
@@ -180,20 +194,7 @@
     "archetypes/posts.md",
     "archetypes/thoughts.md",
     "archetypes/creations.md",
-    "content/templates",
-    "public/thoughts/2025-01-07_3/index.html",
-    "public/thoughts/2025-01-07_3",
-    "public/thoughts/2025-01-07_2/index.html",
-    "public/thoughts/2025-01-07_2",
     "content/_index.md",
-    "content/photos/_index.md",
-    "content/consumptions/_index.md",
-    "public/tags/reading/index.xml",
-    "public/tags/reading/index.html",
-    "content/post/The-Book-Swap-Book-Review.md",
-    "content/creations/2025-handmade-book.md",
-    "content/post/Why-Secretary-Kim-Book-Review.md",
-    "percobaan.md",
-    "content/thoughts/0.md"
+    "content/photos/_index.md"
   ]
 }

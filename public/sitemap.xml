@@ -2,13 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/thoughts/2025-01-11_3/</loc>
-    <lastmod>2025-01-11T19:39:06+07:00</lastmod>
+    <loc>http://localhost:1313/post/kumpulan-buku-domain-publik-indonesia/</loc>
+    <lastmod>2025-02-08T10:41:22+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/belajar/</loc>
+    <lastmod>2025-02-08T10:41:22+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/buku/</loc>
+    <lastmod>2025-02-08T10:41:22+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-11T19:39:06+07:00</lastmod>
+    <lastmod>2025-02-08T10:41:22+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/indonesia/</loc>
+    <lastmod>2025-02-08T10:41:22+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-02-08T10:41:22+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-02-08T10:41:22+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/2025-02-08/</loc>
+    <lastmod>2025-02-08T10:33:38+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/thoughts/</loc>
+    <lastmod>2025-02-08T10:33:38+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/2025-01-27_02/</loc>
+    <lastmod>2025-01-27T20:12:11+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/2025-01-27_01/</loc>
+    <lastmod>2025-01-27T20:03:53+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/2025-01-24_02/</loc>
+    <lastmod>2025-01-24T19:16:22+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/2025-01-24_01/</loc>
+    <lastmod>2025-01-24T13:21:03+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/rutinitas/</loc>
+    <lastmod>2025-01-23T10:42:44+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/perilaku-manusia/</loc>
+    <lastmod>2025-01-23T10:42:44+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/2025-01-23_2/</loc>
+    <lastmod>2025-01-23T10:40:11+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/2025-01-23_1/</loc>
+    <lastmod>2025-01-23T10:31:20+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/2025-01-23/</loc>
+    <lastmod>2025-01-23T10:28:05+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/2025-01-15_02/</loc>
+    <lastmod>2025-01-15T15:46:47+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/2025-01-15_01/</loc>
+    <lastmod>2025-01-15T15:39:13+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/2025-01-13_1/</loc>
+    <lastmod>2025-01-13T07:02:30+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/2025-01-11_3/</loc>
     <lastmod>2025-01-11T19:39:06+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/thoughts/2025-01-11_2/</loc>
@@ -77,22 +134,13 @@
     <loc>http://localhost:1313/thoughts/2025-01-08/</loc>
     <lastmod>2025-01-08T17:53:36+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/belajar/</loc>
+    <loc>http://localhost:1313/post/per-website-an-hari-ini/</loc>
     <lastmod>2025-01-07T10:45:42+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/blog/</loc>
     <lastmod>2025-01-07T10:45:42+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2025-01-07T10:45:42+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/per-website-an-hari-ini/</loc>
-    <lastmod>2025-01-07T10:45:42+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-01-07T10:45:42+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-01-07T10:45:42+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/website/</loc>
@@ -108,9 +156,6 @@
     <lastmod>2025-01-07T08:24:14+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/the-book-swap-book-review/</loc>
-    <lastmod>2025-01-07T08:05:36+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/buku/</loc>
     <lastmod>2025-01-07T08:05:36+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/komentar/</loc>
@@ -303,9 +348,6 @@
     <lastmod>2023-08-20T21:04:29+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/hubungan-antar-manusia/</loc>
-    <lastmod>2023-08-20T21:04:29+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/perilaku-manusia/</loc>
     <lastmod>2023-08-20T21:04:29+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tech/</loc>
