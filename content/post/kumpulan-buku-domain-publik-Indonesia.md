@@ -22,7 +22,7 @@ Sederhana saja, aku copas aja itu semua bagian ceritanya dari website [Sastra Ja
 
 Anyway, yang penting sekarang udah jadi. Buku pertama yang mencetak sejarah ini adalah:
 
-## Abunawas, Jilid 1 oleh Petruk
+## Abunawas, Jilid 1 dan Jilid 2 oleh Petruk
 
 Diceritakan dalam Bahasa Jawa.
 
@@ -30,10 +30,17 @@ Diceritakan dalam Bahasa Jawa.
 
 Koleksi cerita pendek dari masa lampau dituturkan oleh Petruk. Sejumlah 17 cerita dalam dua jilid dengan Sang Abunawas sebagai karakter utama. Diterbitkan oleh Balai Pustaka pada tahun 1930, cerita-cerita ini begitu lucu dan banyak akal.
 
+**JILID 1**
+
 [DOWNLOAD EPUB](/docs/abunawas-jilid-1-digital.epub) 
 
 [DOWNLOAD PDF](/docs/abunawas-jilid-1-digital.pdf)
 
+**JILID 2**
+
+[DOWNLOAD EPUB](/docs/abunawas-jilid-2-digital.epub) 
+
+[DOWNLOAD PDF](/docs/abunawas-jilid-2-digital.pdf)
 
 Segini dulu. Aku akan bersenang-senang sedikit lebih lama lagi dengan kegiatan baru ini hwhehehehe nanti kalau ada pembaharuan tentang per-bukuan-gratis ini, akan aku masukkan kesini lagi. 
 
