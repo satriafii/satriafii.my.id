@@ -1,0 +1,33 @@
+---
+title: "[EN] My First Knit Sock"
+date: 2025-02-17T23:23:08+07:00
+tags:
+  - knitting
+  - journal
+---
+## Hello
+
+I feel like it is such a long time that I didn't pick up my knitting needle and actually knit some stuff. My mental 
+health is going downward nowadays due to my period (*that* period). So I decided to do the thing that every girls do: distract myself. I pick up knitting to just forget about my dangerous mind. 
+
+I don't have a lot of yarn in hand, but I do have some projects that I wanted to do. Try to make proper sock is number one in that list. So, I downloaded some youtube videos (because I hate ads) about knitting socks and do it right away. This is the video that I will use most of the times:
+
+{{< youtube id="0ckM_gTNlf8" >}}
+
+Actually I started yesterday and make some good progress today.
+
+
+## 2025.02.17 Day 2 - How it feels knitting in round with DPN
+
+Still kinda nervous and afraid of me poking my eyes with the needles. Hehehhee
+
+But fair enough I never did that. 
+
+I use small ply cotton yarn in the color of white and yellow. Those are leftover yarns from my bouquet projects. I guess those small balls of yarn will be enough to make one sock. That's why it is not socks, but sock. I just planned to make one sock hehehe
+
+Actually, it's helping me a lot with the suicidal thoughts. I just think about how much more rows I need to knit. Do I need to follow the excact pattern or just came up with my own?
+
+I don't know. I just knit and enjoy the process.
+
+It is night enough to write and knit, so I'll just prepare to sleep. Good night.
+
