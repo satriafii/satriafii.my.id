@@ -27,20 +27,20 @@ Selain disini, aku juga memamerkan bacaanku di [The Storygraph](https://app.thes
 | **Assasination Classroom Vol. 20**                                                        |                                                                                                😶 |
 | **Assasination Classroom Vol. 21**                                                        |                                                                                                😶 |
 | **Assassination Classroom Vol. 17**                                                       |                                                                                                😶 |
-| **Assassination Classroom**                                                               |                                                                                                😶 |
-| **Assassination Classroom**                                                               |                                                                                                😶 |
+| **Assassination Classroom Vol. 19**                                                               |                                                                                                😶 |
+| **Assassination Classroom Vol. 18**                                                               |                                                                                                😶 |
 | **Assassination Classroom Vol. 15**                                                       |                                                                                                😶 |
 | **Assassination Classroom Vol. 16**                                                       |                                                                                                😶 |
 | **Assassination Classroom Vol. 14**                                                       |                                                                                                😶 |
-| **Assassination Classroom**                                                               |                                                                                                😶 |
+| **Assassination Classroom Vol. 11**                                                               |                                                                                                😶 |
 | **Assassination Classroom Vol. 13**                                                       |                                                                                                😶 |
 | **Assassination Classroom Vol. 12**                                                       |                                                                                                😶 |
 | **Assassination Classroom Vol. 10**                                                       |                                                                                                😶 |
-| **Assassination Classroom**                                                               |                                                                                                😶 |
-| **Assassination Classroom**                                                               |                                                                                                😶 |
-| **Assassination Classroom**                                                               |                                                                                                😶 |
+| **Assassination Classroom Vol. 9**                                                               |                                                                                                😶 |
+| **Assassination Classroom Vol. 8**                                                               |                                                                                                😶 |
+| **Assassination Classroom Vol. 7**                                                               |                                                                                                😶 |
 | **Assassination Classroom Vol. 6**                                                        |                                                                                                😶 |
-| **Assassination Classroom**                                                               |                                                                                                😶 |
+| **Assassination Classroom Vol. 5**                                                               |                                                                                                😶 |
 | **Assassination Classroom Vol. 4**                                                        |                                                                                                😶 |
 | **Assassination Classroom Vol. 3**                                                        |                                                                                                😶 |
 | **Assassination Classroom Vol. 2**                                                        |                                                                                                😶 |

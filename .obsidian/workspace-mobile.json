@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/thoughts/2025-02-18_03.md",
+                "file": "content/post/free-code-camp-journey.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-18_03"
+              "title": "free-code-camp-journey"
             }
           }
         ]
@@ -143,8 +143,11 @@
   },
   "active": "a13ccd57d7a62f54",
   "lastOpenFiles": [
-    "content/thoughts/2025-02-18_02.md",
+    "content/thoughts/2025-02-20_01.md",
+    "content/post/free-code-camp-journey.md",
     "content/thoughts/2025-02-18_03.md",
+    "content/thoughts/Screenshot_2025-01-15-10-16-29-204.jpg",
+    "content/thoughts/2025-02-18_02.md",
     "content/thoughts/2025-02-18_01/index.md",
     "content/thoughts/2025-02-18_01/bentukan-city-skyline-hari-ini.png",
     "content/post/first-knit-sock.md",
@@ -167,16 +170,13 @@
     "content/thoughts/2025-01-15_02/index.md",
     "content/thoughts/2025-01-15_01/index.md",
     "content/thoughts/2025-01-15_02",
-    "content/thoughts/Screenshot_2025-01-15-10-16-29-204.jpg",
     "content/_index.md",
     "content/thoughts/2025-01-15_01",
     "content/thoughts/2025-01-13_1",
     "content/thoughts/2025-01-11_3.md",
     "content/thoughts/2025-01-11_2.md",
     "content/thoughts/2025-01-11/index.md",
-    "content/thoughts/2025-01-10_7.md",
     "content/thoughts/2025-01-11",
-    "content/thoughts/2025-01-10_6.md",
     "public/thoughts/Most played This week.jpg"
   ]
 }

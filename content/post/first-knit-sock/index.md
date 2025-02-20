@@ -31,3 +31,27 @@ I don't know. I just knit and enjoy the process.
 
 It is night enough to write and knit, so I'll just prepare to sleep. Good night.
 
+
+## 2025.02.19 Day 3 - Frogged
+
+Yea....... I am confused by the way the lady explain things. So, I frogged the project at this point: 
+![frogged project](IMG_20250218_110244.jpg)
+
+Nevertheless, I am not give up for sock!!!!
+
+I quickly look up for another pattern and [this pattern](https://www.lovecrafts.com/en-gb/p/simple-socks-with-short-row-heel-and-toe-knitting-pattern-by-dorothy-shaw) came out like magic. So I started to knit this pattern.
+
+
+## 2025.02.20 Day 4 - What do I know
+
+Honestly at this point, what do I even know about anything?????
+
+I stuck at the heel part because I don't know a slightest about short row thing. Maybe I shouldn't frogged the project that fast.....
+
+Or maybe I can just learn what and how is the short row thing??????
+
+I have plenty of time anyway.
+
+Yes, you encountered how an ENFJ brain works.
+
+
