@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-02-21T09:53:59+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-02-21T09:53:59+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/the-consultant/</loc>
+    <lastmod>2025-02-21T09:53:59+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/post/free-code-camp-journey/</loc>
     <lastmod>2025-02-20T10:49:42+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/belajar/</loc>
+    <loc>http://localhost:1313/tags/create/</loc>
     <lastmod>2025-02-20T10:49:42+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-02-20T10:49:42+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>http://localhost:1313/tags/learn/</loc>
     <lastmod>2025-02-20T10:49:42+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
@@ -36,9 +42,6 @@
     <lastmod>2025-02-18T09:42:46+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/first-knit-sock/</loc>
-    <lastmod>2025-02-17T23:23:08+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/journal/</loc>
     <lastmod>2025-02-17T23:23:08+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/knitting/</loc>
@@ -68,7 +71,7 @@
     <loc>http://localhost:1313/tags/buku/</loc>
     <lastmod>2025-02-08T10:41:22+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/indonesia/</loc>
+    <loc>http://localhost:1313/tags/consume/</loc>
     <lastmod>2025-02-08T10:41:22+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/thoughts/2025-02-08/</loc>
@@ -92,7 +95,7 @@
     <loc>http://localhost:1313/post/rutinitas/</loc>
     <lastmod>2025-01-23T10:42:44+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/perilaku-manusia/</loc>
+    <loc>http://localhost:1313/tags/reflection/</loc>
     <lastmod>2025-01-23T10:42:44+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/thoughts/2025-01-23_2/</loc>
@@ -185,15 +188,6 @@
     <loc>http://localhost:1313/post/per-website-an-hari-ini/</loc>
     <lastmod>2025-01-07T10:45:42+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/blog/</loc>
-    <lastmod>2025-01-07T10:45:42+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2025-01-07T10:45:42+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/website/</loc>
-    <lastmod>2025-01-07T10:45:42+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/thoughts/2025-01-07_3/</loc>
     <lastmod>2025-01-07T10:27:59+07:00</lastmod>
   </url><url>
@@ -204,12 +198,6 @@
     <lastmod>2025-01-07T08:24:14+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/the-book-swap-book-review/</loc>
-    <lastmod>2025-01-07T08:05:36+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/komentar/</loc>
-    <lastmod>2025-01-07T08:05:36+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/reading/</loc>
     <lastmod>2025-01-07T08:05:36+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/why-secretary-kim-book-review/</loc>
@@ -233,15 +221,6 @@
     <loc>http://localhost:1313/post/how-i-make-this-site/</loc>
     <lastmod>2024-12-28T13:05:37+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/indie-web/</loc>
-    <lastmod>2024-12-28T13:05:37+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/reflection/</loc>
-    <lastmod>2024-12-28T13:05:37+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/self-intro/</loc>
-    <lastmod>2024-12-28T13:05:37+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/silakan-curi-sesuatu-disini/</loc>
     <lastmod>2024-12-28T13:02:15+07:00</lastmod>
   </url><url>
@@ -251,10 +230,16 @@
     <loc>http://localhost:1313/post/kue-sarang-laba-laba/</loc>
     <lastmod>2024-11-04T08:59:09+07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/resep/</loc>
+    <lastmod>2024-11-04T08:59:09+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/post/can-i-just-die/</loc>
     <lastmod>2024-11-01T20:24:49+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/penjelasan-puisi-mata-kucing-kampung/</loc>
+    <lastmod>2024-10-23T08:29:04+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/write/</loc>
     <lastmod>2024-10-23T08:29:04+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/matanya-cantik-tapi-dia-kucing-kampung/</loc>
@@ -284,7 +269,7 @@
     <loc>http://localhost:1313/post/view-log-because-this-is-my-first-life/</loc>
     <lastmod>2024-08-07T10:14:25+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/view-log/</loc>
+    <loc>http://localhost:1313/tags/k-drama/</loc>
     <lastmod>2024-08-07T10:14:25+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/daftar-hal-menyenangkan-di-dunia/</loc>
@@ -296,22 +281,7 @@
     <loc>http://localhost:1313/tags/gardening/</loc>
     <lastmod>2024-05-12T16:16:06+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/humans/</loc>
-    <lastmod>2024-05-12T16:16:06+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/perilaku_manusia/</loc>
-    <lastmod>2024-05-12T16:16:06+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/why-i-learn-new-languages/</loc>
-    <lastmod>2024-05-11T15:54:08+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/english/</loc>
-    <lastmod>2024-05-11T15:54:08+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/language-learning/</loc>
-    <lastmod>2024-05-11T15:54:08+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/learning/</loc>
     <lastmod>2024-05-11T15:54:08+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/a-love-letter-from-my-past-self/</loc>
@@ -320,13 +290,7 @@
     <loc>http://localhost:1313/post/cita-cita-penting-sampai-tidak-akan-terlupakan/</loc>
     <lastmod>2023-09-27T02:03:47+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/reading-journal/</loc>
-    <lastmod>2023-09-27T02:03:47+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/i-dont-know-what-to-write/</loc>
-    <lastmod>2023-09-07T08:38:33+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/menulis/</loc>
     <lastmod>2023-09-07T08:38:33+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/aku-terbuat-dari-teman-temanku/</loc>
@@ -335,67 +299,25 @@
     <loc>http://localhost:1313/post/buku-kambing-dan-hujan/</loc>
     <lastmod>2023-08-29T02:29:07+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/novel/</loc>
-    <lastmod>2023-08-29T02:29:07+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/benci-dan-membenci/</loc>
-    <lastmod>2023-08-23T22:26:15+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/kutipan/</loc>
-    <lastmod>2023-08-23T22:26:15+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/storytel/</loc>
     <lastmod>2023-08-23T22:26:15+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/buku-cermin-dua-arah/</loc>
     <lastmod>2023-08-23T22:17:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/flash-fiction/</loc>
-    <lastmod>2023-08-23T22:17:00+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/bagaimana-cara-membuat-blog-post-dengan-obsidian/</loc>
-    <lastmod>2023-08-22T12:50:35+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/cara-belajar/</loc>
-    <lastmod>2023-08-22T12:50:35+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/obsidian/</loc>
     <lastmod>2023-08-22T12:50:35+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/cerita-yang-dimulai-di-masa-lalu/</loc>
     <lastmod>2023-08-22T12:20:54+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cerpen/</loc>
-    <lastmod>2023-08-22T12:20:54+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/fiksi/</loc>
-    <lastmod>2023-08-22T12:20:54+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/cara-masak-spageti-simpel/</loc>
-    <lastmod>2023-08-20T21:25:28+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/makanan/</loc>
-    <lastmod>2023-08-20T21:25:28+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/masak/</loc>
-    <lastmod>2023-08-20T21:25:28+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/resep/</loc>
     <lastmod>2023-08-20T21:25:28+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/too-dependent-smartphone/</loc>
     <lastmod>2023-08-20T21:04:29+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hubungan-antar-manusia/</loc>
-    <lastmod>2023-08-20T21:04:29+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tech/</loc>
-    <lastmod>2023-08-20T21:04:29+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/bahagia-hanya-efek-samping/</loc>
-    <lastmod>2023-08-20T01:29:09+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/feels/</loc>
     <lastmod>2023-08-20T01:29:09+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/what-a-perfect-life/</loc>
@@ -410,28 +332,16 @@
     <loc>http://localhost:1313/post/buku-the-perfect-world-of-miwko-sumida/</loc>
     <lastmod>2023-08-17T20:30:09+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/reading-log/</loc>
+    <loc>http://localhost:1313/tags/consume/</loc>
     <lastmod>2023-08-17T20:30:09+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/bagaimana-caraku-menyelesaikan-skripsi/</loc>
     <lastmod>2023-08-16T19:26:29+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/skripsi/</loc>
-    <lastmod>2023-08-16T19:26:29+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/dali-and-cocky-prince/</loc>
     <lastmod>2023-08-14T14:22:43+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/drama-korea/</loc>
-    <lastmod>2023-08-14T14:22:43+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/watch-log/</loc>
-    <lastmod>2023-08-14T14:22:43+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/bagaimana-cara-mengkritik-diri-sendiri/</loc>
-    <lastmod>2023-08-14T11:32:30+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/self-improvement/</loc>
     <lastmod>2023-08-14T11:32:30+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/dallergut-toko-penjual-mimpi/</loc>
@@ -443,13 +353,7 @@
     <loc>http://localhost:1313/post/the-curious-incident-of-the-dog-in-the-night/</loc>
     <lastmod>2023-08-13T11:21:19+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/no-emotion/</loc>
-    <lastmod>2023-08-13T11:21:19+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/thinking-fast-and-slow/</loc>
-    <lastmod>2023-08-13T11:13:08+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/ekonomi-perilaku/</loc>
     <lastmod>2023-08-13T11:13:08+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/ekon/</loc>
@@ -461,16 +365,7 @@
     <loc>http://localhost:1313/post/manusia-sosial-media/</loc>
     <lastmod>2023-08-13T11:06:03+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/remote-work-life/</loc>
-    <lastmod>2023-08-13T11:06:03+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/youtube-life/</loc>
-    <lastmod>2023-08-13T11:06:03+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/heteroskedastisitas/</loc>
-    <lastmod>2023-08-13T10:53:43+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/uji-statistika/</loc>
     <lastmod>2023-08-13T10:53:43+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/catatan-kecil-untuk-buku-the-alkemis/</loc>
@@ -479,22 +374,7 @@
     <loc>http://localhost:1313/post/sedikit-komentar-buku-banyu-biru/</loc>
     <lastmod>2023-08-02T16:59:37+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/audiobook/</loc>
-    <lastmod>2023-08-02T16:59:37+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/reading-jorunal/</loc>
-    <lastmod>2023-08-02T16:59:37+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/sedikit-komentar/</loc>
-    <lastmod>2023-08-02T16:59:37+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/storytell/</loc>
-    <lastmod>2023-08-02T16:59:37+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/night-without-light/</loc>
-    <lastmod>2023-08-02T16:00:12+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/puisi/</loc>
     <lastmod>2023-08-02T16:00:12+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/post-pertama-yang-kedua/</loc>
@@ -506,16 +386,7 @@
     <loc>http://localhost:1313/post/post-pertama/</loc>
     <lastmod>2023-07-01T16:13:01+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/github/</loc>
-    <lastmod>2023-07-01T16:13:01+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/jombor-sepi-petang-ini/</loc>
-    <lastmod>2023-06-12T18:42:21+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/everyday/</loc>
-    <lastmod>2023-06-12T18:42:21+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/perjalanan/</loc>
     <lastmod>2023-06-12T18:42:21+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
@@ -523,8 +394,6 @@
     <loc>http://localhost:1313/consumptions/</loc>
   </url><url>
     <loc>http://localhost:1313/creations/crochet-bandana/</loc>
-  </url><url>
-    <loc>http://localhost:1313/_index.sync-conflict-20250213-085313-alw63cy/</loc>
   </url><url>
     <loc>http://localhost:1313/_old-index/</loc>
   </url><url>

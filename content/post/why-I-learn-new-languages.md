@@ -4,9 +4,8 @@ date: 2024-05-11T15:54:08+07:00
 description: 
 summary: "A brief summary of why this human being bothering so much about learning new languages even the language that she's learning is used less than 10% of her lifetime. Spoiler: because she think it is impressive to \"know\" some more languages than others."
 tags:
-  - language-learning
-  - learning
-  - English
+  - Learn
+  - 
 aplayer: false
 showLicence: false
 draft: false
@@ -36,7 +35,7 @@ I still learning. In fact I want to learn forever. So this openness of the world
 
 I know, sometimes it feels really hard to get through a day with a bunch of informations that flood in these days. But the thing is, I have my own source to filter those information out. To pick just what I need and throw away (and be dumb about) the things that I don't need. 
 
-As my father said a long time ago, "People need something to know and to not know. People also need something to remember and something to forget."
+As my father said a long time ago, "People need something to know and to not know. People also need something to remember and more things to forget."
 
 Right now, I love to know about personal growth, literature, languages, writings, crochet, knittings, bookmaking, learning, and some other things. I have a lot of things that I don't know, like wedding traditions, price of McDonald's ice creams, branded items, cars, and more other things. Not trying to be pick me or whatever people nowadays call it, but I genuinely don't care about those things. If you care about that, good for you and maybe you can talk about it with me too. Maybe just to educate me about that stuff 😀
 
@@ -58,3 +57,12 @@ You will never know that I used auto spelling so much in this post until I told 
 But yeah-- I think I have my progress right here, writing my blog post entirely in English.
 
 Good day!
+
+---
+
+Edit 2025-02-21
+
+> But I have different idea about "learning" a new language now. For me, learning new languages is just me want to show off to people that I can understand and speak in that language and be proud of myself.
+
+
+Those are not that healthy, tho. I found it really hard for me to keep engage and learning the languages consistently with that kind of goals. So right now I am on my way to find another reliable goal to motivate me to learn those languages.

@@ -2,7 +2,7 @@
 title: "[ID] Sedikit Komentar tentang Buku Banyu Biru"
 date: 2023-08-02T16:59:37+07:00
 summary: "Hanya komentar sekilas setelah selesai mendengarkan audiobook Banyu Biru yang ditulis oleh Ayu Dewi" 
-tags: ["buku", "sedikit komentar", "audiobook", "storytell", "reading jorunal"]
+tags: ["buku", "consume"]
 aplayer: false
 showLicence: false
 draft: false

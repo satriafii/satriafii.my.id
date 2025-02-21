@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/free-code-camp-journey.md",
+                "file": "content/post/first-knit-sock/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "free-code-camp-journey"
+              "title": "index"
+            }
+          },
+          {
+            "id": "4755c893133e2cf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/post/free-code-camp-journey/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "d403129600b086f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/post/the-consultant.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the-consultant"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,8 +170,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a13ccd57d7a62f54",
+  "active": "4755c893133e2cf9",
   "lastOpenFiles": [
+    "content/post/the-consultant.md",
+    "public/post/the-consultant/index.html",
+    "public/tags/consume/index.html",
+    "public/tags/write/index.xml",
+    "public/tags/learn/index.xml",
+    "public/tags/create/index.xml",
+    "public/tags/consume/index.xml",
+    "public/tags/create/index.html",
+    "public/tags/k-drama/index.xml",
+    "public/tags/k-drama/index.html",
+    "public/tags/write/index.html",
+    "content/post/free-code-camp-journey/index.md",
+    "content/post/first-knit-sock/index.md",
     "content/thoughts/2025-02-20_01.md",
     "content/post/free-code-camp-journey.md",
     "content/thoughts/2025-02-18_03.md",
@@ -151,7 +193,6 @@
     "content/thoughts/2025-02-18_01/index.md",
     "content/thoughts/2025-02-18_01/bentukan-city-skyline-hari-ini.png",
     "content/post/first-knit-sock.md",
-    "content/thoughts/2025-02-18_01",
     "content/creations/first-knit-sock.md",
     "content/creations/buku-digital-domain-publik.md",
     "content/thoughts/2025-02-17_03.md",
@@ -169,14 +210,6 @@
     "content/thoughts/Screenshot_2025-01-15-10-16-41-233.jpg",
     "content/thoughts/2025-01-15_02/index.md",
     "content/thoughts/2025-01-15_01/index.md",
-    "content/thoughts/2025-01-15_02",
-    "content/_index.md",
-    "content/thoughts/2025-01-15_01",
-    "content/thoughts/2025-01-13_1",
-    "content/thoughts/2025-01-11_3.md",
-    "content/thoughts/2025-01-11_2.md",
-    "content/thoughts/2025-01-11/index.md",
-    "content/thoughts/2025-01-11",
     "public/thoughts/Most played This week.jpg"
   ]
 }

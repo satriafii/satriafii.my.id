@@ -8,7 +8,7 @@ Selain disini, aku juga memamerkan bacaanku di [The Storygraph](https://app.thes
 | **Dua Belas Pasang Mata**                                                                 |                                                        Cerita sederhana tapi perempuan tetap jaya |
 | [**The Book Swap**](/post/The-Book-Swap-Book-Review)                                                                         |                                           :star: :star: :star: untuk Male Lead nya karena kasihan |
 | [**Why Secretary Kim 2**](/post/Why-Secretary-Kim-Book-Review)                                                                   |                                                         :star::star: Udah nggak kerasa keuwuannya |
-| **The Consultant**                                                                        |                                                                               A murder planner 😂 |
+| [**The Consultant**](/post/the-consultant)                                                                        |                                                                               A murder planner 😂 |
 | **Marigold Mind Laundry**                                                                 |                                      a place to 🧽your ☹️and turn that into 🌸 then send it to 🌆 |
 | **Why Secretary Kim**                                                                     |                                                               Sweet and spicy childhood trauma 😳 |
 | **The Vegetarian**                                                                        |                                                                No meat and men allowed here...... |

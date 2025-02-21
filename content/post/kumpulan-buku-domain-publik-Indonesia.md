@@ -3,8 +3,9 @@ title: "[ID] Kumpulan Buku PDF dan ePub Domain Publik Indonesia"
 date: 2025-02-08T10:41:22+07:00
 tags:
   - buku
-  - belajar
-  - indonesia
+  - learn
+  - create
+  - consume
 ---
 Halo.
 

@@ -3,7 +3,7 @@ title: "[ID] Cita-Cita yang Penting Sampai Tidak Akan Terlupakan"
 date: 2023-09-27T02:03:47+07:00
 description: "" 
 summary: "Sedikit catatan tentang satu paragraf ketika aku membaca buku Kita Pergi Hari Ini karya Ziggy Zezsyazeoviennazabrizkie."
-tags: ["buku", "reading journal",    "reflection", "self-intro"]
+tags: ["buku", "reflection", "consume", "create"]
 aplayer: false
 showLicence: false
 draft: false

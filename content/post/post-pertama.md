@@ -2,7 +2,7 @@
 title: "[ID] Post Pertama Setelah About"
 date: 2023-07-01 16:13:01+07:00
 description: "Belajar Hugo, Github, dan Netlify serta blog" 
-tags: ["belajar", "hugo", "github", "blog"]
+tags: ["learn", "web-dev", "create"]
 aplayer: false
 showLicence: false
 showToc: true

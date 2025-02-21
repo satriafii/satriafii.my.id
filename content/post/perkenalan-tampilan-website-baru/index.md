@@ -1,6 +1,9 @@
 ---
 title: "[ID] Selamat Datang Tampilan Baru"
 date: 2024-09-29T18:43:57+07:00
+tags:
+- create
+- web-dev
 ---
 
 Halo.

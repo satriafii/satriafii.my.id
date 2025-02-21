@@ -1,6 +1,8 @@
 ---
 title: "[ID] Bagaimana Orang yang Sehat Secara Mental Menghadapi Emosi Negatifnya"
 date: 2024-10-05T18:58:37+07:00
+tags:
+- reflection
 ---
 
 Marah, sedih, kecewa, menderita, lelah, benci, dan sebagainya.

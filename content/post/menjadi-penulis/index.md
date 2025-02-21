@@ -4,10 +4,9 @@ date: 2023-11-06T09:16:40+07:00
 description: ""
 summary: Cerita 5w+1h tentang tulis menulis dikehidupanku. Nggak penting-penting amat, tapi buatku menulis itu penting, jadi menulis tentang menulis menurutku menarik.
 tags:
-  - belajar
-  - blog
-  - menulis
-  - self-intro
+  - write
+  - learn
+  - create
 aplayer: false
 showLicence: false
 draft: true

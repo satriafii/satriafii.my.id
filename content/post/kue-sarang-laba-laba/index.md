@@ -1,6 +1,9 @@
 ---
 title: "[ID] Resep Kue Sarang Laba-Laba"
 date: 2024-11-04T08:59:09+07:00
+tags:
+- create
+- resep
 ---
 
 {{< img sizes="(min-width: 35em) 800px, 100vw" src="kue-sarang-laba-laba.jpg" alt="kue sarang laba-laba, bentuknya sangat abstrak tapi karena bentuknya itu jadi bikin teksturnya unik dan bisa renyah" >}}

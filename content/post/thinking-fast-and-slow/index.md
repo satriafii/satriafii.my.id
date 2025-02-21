@@ -2,7 +2,7 @@
 title: "[ID] Thinking Fast And Slow"
 date: 2023-08-13T11:13:08+07:00
 summary: "Reading journal ketika awal-awal baca buku Thinking Fast and Slow." 
-tags: ["buku", "ekonomi perilaku", "belajar", "reading journal"]
+tags: ["buku", "learn"]
 aplayer: false
 showLicence: false
 draft: false

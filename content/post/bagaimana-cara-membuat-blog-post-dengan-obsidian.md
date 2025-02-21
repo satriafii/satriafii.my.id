@@ -3,7 +3,7 @@ title: "[ID] Bagaimana Cara Membuat Blog Post dari 1900 Tulisan Random"
 date: 2023-08-22T12:50:35+07:00
 description: "" 
 summary: "Berdasarkan pengalaman pribadi dan trial dan eror dan konsep kerja cerdas wkwkw"
-tags: ["belajar", "blog", "hugo", "obsidian", "cara belajar"]
+tags: ["learn", "write"]
 aplayer: false
 showLicence: false
 draft: false

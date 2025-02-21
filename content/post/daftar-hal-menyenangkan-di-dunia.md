@@ -5,8 +5,6 @@ description: ""
 summary: Setelah sekian lama absen, inilah yang aku temukan.
 tags:
   - reflection
-  - self-intro
-  - journal
 aplayer: false
 showLicence: false
 draft: false

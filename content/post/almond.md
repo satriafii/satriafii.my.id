@@ -3,7 +3,7 @@ title: "[ID] Almond"
 date: 2023-08-13T11:22:55+07:00
 description: "Post ini isinya lebih ke kutipan yang aku dapatkan dari buku Almond sih. Mungkin pan kapan akan aku tambahkan bumbu dari aku sendiri heehe, kangen juga sebenernya dengan Almond." 
 summary: "Baca ulang almond karena sedang terkagum-kagum dengan sastra asia hehehe"
-tags: ["buku", "kutipan"]
+tags: ["buku"]
 aplayer: false
 showLicence: false
 draft: false

@@ -3,7 +3,7 @@ title: "[ID] Aku Terbuat dari Orang Disekitarku"
 date: 2023-08-29T02:39:47+07:00
 description: "" 
 summary: "Sejatinya ini notes kecil yang aku sendirikan dari catatan-catatan yang aku buat saat membaca buku Convinience Store Woman. Tapi menurutku laebih bagus untuk dibuat satu halaman sendiri untuk topik ini, karena aku ingin menambahkan pengetahuan dan pemikiran lainnya."
-tags: ["buku", "reading journal", "reflection", "self-intro"]
+tags: ["buku", "reflection"]
 aplayer: false
 showLicence: false
 draft: false

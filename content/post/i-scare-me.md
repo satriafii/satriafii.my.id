@@ -1,6 +1,8 @@
 ---
 title: '[ID] I Scare Me'
 date: 2024-11-15T08:23:01+07:00
+tags: 
+- reflection
 ---
 
 Akhir-akhir ini aku jarang menulis. 

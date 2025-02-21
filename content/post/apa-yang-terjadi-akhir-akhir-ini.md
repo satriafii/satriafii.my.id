@@ -3,7 +3,7 @@ title: "[ID] Apa yang Terjadi Akhir-Akhir Ini"
 date: 2024-08-08T17:36:47+07:00
 description: "" 
 summary: "Meskipun aku memang *biasa* agak lama absen dari dunia maya, tapi absenku tiga bulan ini bukanlah absen biasa. Aku jatuh dan bangun, layu lalu tumbuh dalam tiga bulan saja. Mulai bulan 8 ini, pertumbuhanku mungkin akan lebih lambat dibanding sebelumnya. Tapi tentu aku akan lebih dewasa dan berhati-hati sebagai manusia."
-tags: ["self-intro", "reflection"]
+tags: ["reflection"]
 aplayer: false
 showLicence: false
 draft: false

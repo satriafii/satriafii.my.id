@@ -2,8 +2,8 @@
 title: "[ID] Handmade Books for 2025 Journaling"
 date: 2025-01-03T07:23:18+07:23
 tags:
+  - create
   - bookbinding
-  - journal
   - routine
 ---
 Sudah beberapa tahun ini aku mengusahakan untuk selalu membuat buku untuk journaling. Buku pertama yang pernah aku buat adalah [buku ini](https://satriafii.my.id/photos/resized_P_20200828_092327.jpg). Buku dengan sampul galaxy yang aku lukis sendiri. Isinya adalah kertas-kertas buku tulis biasa sisa dua semester sebelum aku buat buku tersebut. Dulu aku belajar membuat sampulnya dengan video dari [Sea Lemon ini](https://youtu.be/1RMqVdYMgBw?si=ta6ecAUWvKGUWDyG) lalu dilanjutkan dengan menjahit text block nya dengan [video ini](https://youtu.be/XGQ5P8QVHSg?si=zgOTFYGErBEHjt8L) kemudian aku menjadikannya *buku beneran* dengan bantuan [video ini](https://youtu.be/Av_rU-yOPd4?si=new9w2YmliGiX6Ys). 

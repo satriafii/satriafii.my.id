@@ -3,7 +3,7 @@ title: "[ID] Cerita yang Dimulai di Masa Lalu"
 date: 2023-08-22T12:20:54+07:00
 description: "" 
 summary: "Cerpen yang aku tulis sembari berusaha menghadapi dunia dengan merasa kesepian dan sendirian. Alias lagi menggalau ria haha"
-tags: ["fiksi", "cerpen"]
+tags: ["create", "write"]
 aplayer: false
 showLicence: false
 draft: false

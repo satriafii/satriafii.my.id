@@ -2,7 +2,7 @@
 title: "[ID] Silakan Curi Sesuatu Disini"
 date: 2024-12-28T13:02:15+07:00
 summary: "Apabila ingin mengambil sesuatu (apapun itu) dari website ini, silakan. Catatan tambahan silakan baca lebih lengkap ya."
-tags: ["website", "web-dev", "indie-web"]
+tags: ["web-dev", "create"]
 ---
 
 Halo, tulisan ini bertujuan untuk memberikan jejak yang jelas bagaimana aku memutuskan bagimana konten di website ini boleh dikonsumsi. Mungkin ini bisa disebut dengan *copyright*? Sejujurnya aku masih kurang tahu apa itu *copyright* selain produksi artis besar atau perusahaan besar. Tapi setidaknya aku ingin menjelaskan apa yang boleh dan tidak boleh dilakukan dengan konten yang aku pamerkan disini. Aku belum pernah tahu contoh seperti ini di Indonesia. Tapi aku mau coba aja. Oke, mari dimulai.

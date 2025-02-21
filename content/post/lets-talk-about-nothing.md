@@ -1,6 +1,8 @@
 ---
 title: "[EN] Let's Talk About Nothing"
 date: 2024-10-16T11:39:00+07:00
+tags: 
+- reflection
 ---
 
 Have no idea what I want to talk about.

@@ -3,7 +3,8 @@ title: "[ID] [EN] Free Code Camp Journey"
 date: 2025-02-20T10:49:42+07:00
 tags:
   - web-dev
-  - belajar
+  - learn
+  - create
 ---
 
 Ceritanya aku mau seriusin lagi belajar koding dari awal. Aku sudah tahu website ini jauh sebelum aku daftar di website ini. Tapi mari ceritakan hal-hal yang bisa dilihat oleh orang lain yah....
@@ -30,3 +31,19 @@ What I learned today:
 
 Progress hari ini:
 ![peningkatan hari ini dalam membuat city skyline di freecodecamp](Screenshot-2025-02-20-113513.png)
+
+### 2025-02-21
+
+Hehehehehhehe I did the lesson last minute(?) Hehehehhe
+
+Tadi pagi udah ngerjain satu atau dua step gitu, aku lupa. Malam ini aku ngebut nyelesaiin City Skyline.
+
+Things I learned along the way:
+- I still confused with the `flex` thing. I don't know how to control them......
+- I really like the concept of `var` hehehe.
+- I posted on forum!!!!! Hehehhehehehe
+
+Hari ini aku ngerasa sangat kesepian dan nggak ada interaksi apapun dengan manusia beneran. Jadi poin ketiga itu sangat signifikan buat aku.
+
+Mahakarya hari ini:
+![City Skyline Finished hehehe](city-skyline-finished.png)

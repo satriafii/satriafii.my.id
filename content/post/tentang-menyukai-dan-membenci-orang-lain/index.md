@@ -1,6 +1,8 @@
 ---
 title: "[ID] Aku Menyukai dan Membenci Orang dengan Persentase Sendiri-Sendiri"
 date: 2024-09-30T08:47:04+07:00
+tags: 
+- reflection
 ---
 
 

@@ -5,8 +5,6 @@ description: ""
 summary: Hello! I guess you are my future self. Just so you know that your past self is really love you. So I wrote you this.
 tags:
   - reflection
-  - self-intro
-  - journal
 aplayer: false
 showLicence: false
 draft: false

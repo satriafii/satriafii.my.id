@@ -1,6 +1,8 @@
 ---
 title: "[JV] Sing Dipangan Yo Kudu Dipakani"
 date: 2024-10-22T08:41:01+07:00
+tags: 
+- reflection
 ---
 
 Bapak nek sebagai Bapakku dhewe ki kadang marai bangga. Bungah rasane nduwe bapak sing koyo Bapakku iku. Tapi nek dikon ngenehi biji sebagai cah wedok ning lanang, bahkan KKM wae ketoke ora.

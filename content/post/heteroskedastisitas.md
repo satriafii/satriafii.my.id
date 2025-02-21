@@ -2,7 +2,7 @@
 title: "[ID] Heteroskedastisitas"
 date: 2023-08-13T10:53:43+07:00
 summary: "Sedikit catatan tentang heteroskedastisitas." 
-tags: ["uji statistika", "belajar", "skripsi"]
+tags: ["learn"]
 aplayer: false
 showLicence: false
 draft: false

@@ -1,6 +1,8 @@
 ---
 title: "[ID] Pertama Kali Menetapkan Pilihan"
 date: 2024-10-02T20:01:57+07:00
+tags: 
+- reflection
 ---
 
 Halo.

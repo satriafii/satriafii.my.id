@@ -3,7 +3,7 @@ title: "[ID] Bahagia Hanya Efek Samping"
 date: 2023-08-20T01:29:09+07:00
 description: "" 
 summary: "Pendapatku tentang kalimat ini: Tujuanku adalah membahagiakan *A*-ku dan semacamnya."
-tags: ["feels", "self intro", "perilaku manusia", "hubungan antar manusia"]
+tags: ["reflection"]
 aplayer: false
 showLicence: false
 draft: false

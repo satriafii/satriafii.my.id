@@ -4,10 +4,9 @@ date: 2023-09-07T08:38:33+07:00
 description: 
 summary: Curcol, sedang writing block(?) Padahal ya nggak banget-banget sih.
 tags:
-  - menulis
-  - blog
-  - belajar
-  - self-intro
+  - write
+  - create
+  - reflection
 aplayer: false
 showLicence: false
 draft: false

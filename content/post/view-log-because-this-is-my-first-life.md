@@ -5,8 +5,8 @@ description: ""
 summary: Dulu aku tulis saat aku nonton drama ini ke-sekian kalinya. Drama ini drama korea kesukaanku. I think bakalan seru kalau aku post tulisan-tulian lamaku dari vault obsidian pribadiku begini. So, today I do it. Enjoy!
 tags:
   - reflection
-  - view log
-  - journal
+  - K-Drama
+  - consume
 aplayer: false
 showLicence: false
 draft: false

@@ -2,7 +2,7 @@
 title: "[ID] Bagaimana Cara Membuat Website Seperti ini Bermodal Kemampuan Noob dan Cocoklogi"
 date: 2024-12-28T13:05:37+07:00
 summary: "Kemampuan yang dibutuhkan adalah bisa membaca, menulis, dan mengetik. Sudah itu saja. Bahasa yang dibutuhkan adalah bahasa Inggris kalau bisa lebih bagus, tapi bahasa Indonesia juga bisa jalan lancar saja."
-tags: ["website", "web-dev", "reflection", "self-intro", "Hugo", "indie-web"]
+tags: ["web-dev", "create", "learn"]
 ---
 
 Selamat pagi. Kali ini menyapa para pembaca dengan tampilan baru. Meskipun ini saya pede sekali menyebut bakalan ada yang baca tulisanku.

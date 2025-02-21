@@ -1,6 +1,8 @@
 ---
 title: "[EN] Can-i-just-die"
 date: 2024-11-01T20:24:49+07:00
+tags: 
+- reflection
 ---
 
 I think I shouldn't 

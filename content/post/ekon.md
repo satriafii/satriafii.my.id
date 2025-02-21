@@ -2,7 +2,7 @@
 title: "[ID] Ekon"
 date: 2023-08-13T11:11:42+07:00
 summary: "Ekon, si paling rasional, egois, dan konsisten. wkwkw" 
-tags: ["Ekonomi perilaku", "belajar", "buku"]
+tags: ["consume", "buku"]
 aplayer: false
 showLicence: false
 draft: false

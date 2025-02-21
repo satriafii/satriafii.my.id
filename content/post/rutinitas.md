@@ -2,7 +2,7 @@
 title: "[ID] Rutinitas"
 date: 2025-01-23T10:42:44+07:00
 tags:
-  - perilaku-manusia
+  - reflection
 ---
 Baru-baru ini aku sedang mencoba rutinitas baru. Sebelumnya disclaimer dulu, aku punya kemewahan untuk mencoba apapun yang aku suka kapanpun aku mau karena pekerjaanku sebagai freelancer yang sangat santuy~ Jadi jangan heran dengan kata-kata "tidur siang" hehehe.
 

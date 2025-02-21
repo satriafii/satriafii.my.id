@@ -3,7 +3,7 @@ title: "[ID] Jombor Sepi Petang Ini"
 date: 2023-06-12T18:42:21+07:00
 description: "" 
 summary: "Petang ini, Terminal Jombor sangat sepi."
-tags: ["everyday", "perjalanan"]
+tags: ["reflection"]
 aplayer: false
 showLicence: false
 draft: false

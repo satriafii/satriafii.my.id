@@ -3,7 +3,7 @@ title: "[ID] Membuka Akun Instagram - Remember what your hands can do"
 date: 2023-12-30T00:17:09+07:00
 description: "" 
 summary: "Akhirnya bisa menulis sesuatu lagi. Kali ini aku ingin mengenalkan akun instagramku yang nggak baru-baru amat."
-tags: ["sosial", "sosmed", "craft", "reflection"]
+tags: ["reflection"]
 aplayer: false
 showLicence: false
 draft: true

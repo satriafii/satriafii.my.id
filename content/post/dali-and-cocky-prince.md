@@ -3,7 +3,7 @@ title: "[ID] Watch Log Drama Korea Dali and Cocky Prince 달리와 감자탕"
 date: 2023-08-14T14:22:43+07:00
 description: "" 
 summary: "Share sedikit journal ketika menonton drama yang super ringan ini."
-tags: ["drama korea", "watch log"]
+tags: ["consume", "K-Drama"]
 aplayer: false
 showLicence: false
 draft: false

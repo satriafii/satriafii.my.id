@@ -3,7 +3,7 @@ title: "[EN] My First Knit Sock"
 date: 2025-02-17T23:23:08+07:00
 tags:
   - knitting
-  - journal
+  - create
 ---
 ## Hello
 
@@ -55,3 +55,16 @@ I have plenty of time anyway.
 Yes, you encountered how an ENFJ brain works.
 
 
+## 2025.02.21 Day 5 - Well,.... I can explain
+
+Actually, I cannot explain anything at this point. I have no explanation. I just feel.... not right.
+
+I frogged again. hahahahhahaha
+
+It's not that funny, tho. Because it is sad to starting all over again. But I really found the most vanilla sock ever. It is short. And... I did like the pattern. 
+
+I know the size is not for me, but at least I can try to...... make it??????
+
+Yeah, I just frogged it and call it a day when it is just half way.
+
+Let's just wait for tomorrow. Hopefully I am not on my frogged era again.

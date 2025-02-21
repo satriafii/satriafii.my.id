@@ -3,7 +3,7 @@ title: "[ID] Why Secretary Kim 2 Book Review"
 date: 2025-01-07T07:57:56+07:00
 tags:
   - buku
-  - komentar
+  - consume
 ---
 Aku membaca buku ini secara gratis dengan fasilitas perpustakan digital Ruang Buku Kominfo. 
 

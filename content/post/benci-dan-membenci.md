@@ -3,7 +3,7 @@ title: "[ID] Benci dan Membenci"
 date: 2023-08-23T22:26:15+07:00
 description: "" 
 summary: "Sebenarnya aku kurang suka menggunakan kata ini, tapi ini aku dapatkan dari sebuah buku anak-anak. Kupikir bisa jadi renungan juga, jadi aku catat."
-tags: ["self-intro", "buku", "storytel", "kutipan", "komentar"]
+tags: ["buku", "reflection"]
 aplayer: false
 showLicence: false
 draft: false

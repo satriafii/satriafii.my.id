@@ -3,7 +3,7 @@ title: "[ID] Ketakutanku Akan Berhenti Belajar"
 date: 2023-08-18T19:12:17+07:00
 description: "" 
 summary: "Salah satu overthinking-an ku ketika menyelesaikan studi."
-tags: ["belajar", "self intro"]
+tags: ["learn", "reflection"]
 aplayer: false
 showLicence: false
 draft: false

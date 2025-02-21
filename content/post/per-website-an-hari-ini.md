@@ -2,10 +2,8 @@
 title: "[ID] Per Website An Hari Ini"
 date: 2025-01-07T10:45:42+07:00
 tags:
-  - website
-  - hugo
-  - belajar
-  - blog
+  - web-dev
+  - create
 ---
 Wah. Hari ini aku banyak menulis di banyak tempat.
 

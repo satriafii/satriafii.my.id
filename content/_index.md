@@ -16,3 +16,9 @@ Some stuff that I did and I think these worth to look at to know more about me:
 - [Darker side of the cave](/post/i-scare-me/)
 - [My thoughts because maybe you still remember how twitter work](/thoughts/)
 
+What I do nowadays:
+- [Attempting to knit my first piece of sock in English so I can force myself to write in English](/post/first-knit-sock/)
+- [Learning code at freecodecamp.org everyday and track the progress here](/post/free-code-camp-journey/)
+
+You can talk to me [here](https://x.com/satriafii/) or [email me](mailto:heysatriafi@gmail.com).
+

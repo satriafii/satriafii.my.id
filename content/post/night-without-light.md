@@ -2,7 +2,7 @@
 title: "[EN] [ID] Night Without Light"
 date: 2023-08-02T16:00:12+07:00
 summary: "this posted at a night but with the light out" 
-tags: ["puisi", "fiksi"]
+tags: ["create", "write"]
 aplayer: false
 showLicence: false
 draft: false

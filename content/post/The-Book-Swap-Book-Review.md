@@ -3,8 +3,7 @@ title: "[ID] The Book Swap Book Review"
 date: 2025-01-07T08:05:36+07:00
 tags:
   - buku
-  - komentar
-  - reading
+  - consume
 ---
 Aku baca buku ini secara gratis melalui aplikasi Libby.
 

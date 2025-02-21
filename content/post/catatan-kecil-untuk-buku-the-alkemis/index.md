@@ -3,7 +3,7 @@ title: "[ID] Catatan Kecil untuk Buku The Alkemis"
 date: 2023-08-13T10:49:16+07:00
 description: "Sedikit curahan hati setelah membaca buku ini." 
 summary: "Banyak sekali quotes yang aku kumpulkan dari si Bocah maupun dari sang Alkemis. Rasanya, aku tahu mengapa banyak orang menyarankan semua orang membaca buku ini setelah menyelesaikannya dalam waktu singkat."
-tags: ["buku", "reading journal"]
+tags: ["buku", "consume"]
 aplayer: false
 showLicence: false
 draft: false
