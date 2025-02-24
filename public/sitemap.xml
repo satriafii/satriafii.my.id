@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/thoughts/2025-02-23_02/</loc>
+    <lastmod>2025-02-23T12:04:16+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-02-23T12:04:16+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/</loc>
+    <lastmod>2025-02-23T12:04:16+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/2025-02-23_01/</loc>
+    <lastmod>2025-02-23T12:02:03+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/the-consultant/</loc>
     <lastmod>2025-02-21T09:53:59+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-02-21T09:53:59+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/the-consultant/</loc>
     <lastmod>2025-02-21T09:53:59+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/free-code-camp-journey/</loc>
@@ -27,9 +36,6 @@
     <lastmod>2025-02-20T10:49:42+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/thoughts/2025-02-20_01/</loc>
-    <lastmod>2025-02-20T07:46:41+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/thoughts/</loc>
     <lastmod>2025-02-20T07:46:41+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/thoughts/2025-02-18_03/</loc>

@@ -68,3 +68,23 @@ I know the size is not for me, but at least I can try to...... make it??????
 Yeah, I just frogged it and call it a day when it is just half way.
 
 Let's just wait for tomorrow. Hopefully I am not on my frogged era again.
+
+## 2025.02.22 Day 6 - Congratulations!!!!!!!
+
+Hahahahha I am referring to the Korean Band, Day6. They have song titled "Congratulation". This night, I finished my first sock!!!!!!!!!!!!!!
+
+I didn't take a photo of the finished project, but I have the urge to just write the feelings down here. So here I am!!!!
+
+I am really happy about the sock. I want to make another one with some leftover yarns that I have or just frogged some projects........ 
+
+HAHAHHAHA
+
+It is super vanilla sock, but I really love it!!!! 
+
+Actually, I cannot wear this one because it is too small for me, so I really want to make a pair that I can actually wear. 
+
+Maybe I should buy some yarn?????? Hehehhehehehhehehehehhehehrhhehehrhrhrhhehehehehhehehehe
+
+Okay, I need to stop thinking about this knitting things because it is making me crazy right now :sob:
+
+I'll attach the pic tomorrow. 

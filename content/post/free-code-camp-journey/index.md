@@ -47,3 +47,31 @@ Hari ini aku ngerasa sangat kesepian dan nggak ada interaksi apapun dengan manus
 
 Mahakarya hari ini:
 ![City Skyline Finished hehehe](city-skyline-finished.png)
+
+
+### 2025-02-22
+
+Mulai project baru: Magazine.
+
+Tiap kali memulai project baru aku harus: melihat bagaimana cara memulai HTML wkwkwk 
+
+What I learned today:
+- `hr` element is used to make blockquote more beautiful hehe and set that aside from the rest of the other text. And the best of all it is just `</hr>` saja
+- to add fallback on `font-family`, all you need to do is just add comma before the fallback. 
+- Actually, I don't know what fallback font is........
+- the `grid-template-columns`, I was familiar with this, but I don't know about `minmax`. If this `minmax`-thing can make the appearance more responsive, I should try change something in my [photos](/photos/) page hehehe
+- `place-items` ini intinya `align-items + justify-items` kan????
+
+
+btw ini udah 94% to go~ 
+
+AAAAANNNNDDD done at 10:11 AM
+
+Lalu ngintip certification project nya hehehehe tinggal dua serifikasi lagi btw. Tapi sejauh ini aku ngerasa belum tahu apa-apa :sob: :sob: :sob: :pray:
+
+
+### 2025-02-23
+
+Entah kenapa seharian ini tadi aku capek banget dan cuma pengen baca buku dan goleran aja. Jadi, aku memutuskan untuk tidak terlalu membuka laptop dan akan buka laptop kalau udah mau mengerjakan freecodecamp aja. Hasilnya ini udah mau jam tidurku, aku baru buka laptop dan beburu mengerjakan sedikit certification project. Progress hari ini:
+
+![Progress certification Project hari ini](Screenshot_2025-02-23_204616.png)

@@ -1,5 +1,6 @@
 {
   "mobileToolbarCommands": [
+    "editor:save-file",
     "editor:attach-file",
     "editor:undo",
     "editor:redo",
