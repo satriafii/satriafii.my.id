@@ -75,3 +75,56 @@ Lalu ngintip certification project nya hehehehe tinggal dua serifikasi lagi btw.
 Entah kenapa seharian ini tadi aku capek banget dan cuma pengen baca buku dan goleran aja. Jadi, aku memutuskan untuk tidak terlalu membuka laptop dan akan buka laptop kalau udah mau mengerjakan freecodecamp aja. Hasilnya ini udah mau jam tidurku, aku baru buka laptop dan beburu mengerjakan sedikit certification project. Progress hari ini:
 
 ![Progress certification Project hari ini](Screenshot_2025-02-23_204616.png)
+
+
+### 2025-02-24
+
+Sudah selesai wkwkwkwkwkkw
+![certification Project Hari Ini](Screenshot_2025-02-24_115229.png)
+
+Memalukan sih ini. Bentukannya ga karuan, mana masih nyontek sana sini buat nyelesaiinnya. 
+
+Kodingannya berantakan banget, malu banget :sob: :sob: :sob:
+
+87 line html dan 40 line css wkwkwkwkwkwkwkwkwkkwkw demi sertifikasi doang. Ini ibarat ujian emang cuma ngejar kkm aja, ga peduli bentukannya kek mana. Jungkir balik ga karuan.
+
+Well, at least I did it.......
+
+Tinggal dua project dan satu sertifikasi lagi sih ini, langsung bisa officially claim certification untuk Responsive Web Design di freecodecamp.
+
+Abis ini bikin ferris wheel, btw. Kalau hari ini mood ya hari ini dikejar, kalau nggak ya mungkin besok ajah ehehheeh
+
+Tapi jujurly ini project-project sertifikasi di freecodecamp bisa aku remake tanpa harus ada id dan classes yang udah ditentukan. Mungkin besok kalau udah lancar ngodingnya sih. 
+
+YAALLAH ternyata bisa dilihat di public profile code ku huhuhuhuhhu malu banget
+
+
+### 2025-02-25
+
+Sampai malam aku belum ngerjain apapun. Tapi ini aku mau ngerjain sambil nunggu sesuatu. Hehehehhe
+
+Semoga dapat agak banyak :") wkwkkw
+
+Lumayan dapet agak banyak hari ini ehehehe. Progress hari ini: 
+
+![progress wheel hari ini](Screenshot_2025-02-25_220548.png)
+
+Ini sudah bisa gerak btw, aku belajar tentang animation dan keyframes, sekilas saja sih, sesuai penjelasan waktu ngerjain step 18. 
+
+Terus ternyata bisa bikin beberapa bentuk yang sama dengan `:nth-of-type(n)`. Konsep ini dipake buat bikin garis jari-jari dan kotak-kotak merahnya.
+
+### 2025-03-01
+
+Wah, akhirnya baru bisa melanjutkan membuat ferris wheel hari ini. Abis sahur memang enaknya bergelut dengan CSS :wink:
+
+Lumayan bisa menyelesaikan per-CSS an itu hari ini. Aku belajar tentang animation dan cara membuatnya lebih menarik lagi dengan sesimpel mengubah background color aja. 
+
+Oh aku juga belajar tentang `keyframes`.
+
+Sejujurnya, aku belajar banyak bahkan dari sesi sependek sepuluh menit ini.
+
+Tapi... I feel like I don't understand anything :sob::sob::sob:
+
+....
+
+Yasudahlah~

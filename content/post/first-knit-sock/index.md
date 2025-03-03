@@ -87,4 +87,17 @@ Maybe I should buy some yarn?????? Hehehhehehehhehehehehhehehrhhehehrhrhrhhehehe
 
 Okay, I need to stop thinking about this knitting things because it is making me crazy right now :sob:
 
-I'll attach the pic tomorrow. 
+I'll attach the pic tomorrow.
+![[IMG_20250225_110431.jpg]]
+
+Took a long time for me to just attach the pics. But you know, life. And I am doing this while I feel dizzy 😭🙏
+
+The bus driver is driving the bus really madly, so I need to **not** looking outside and decided to write this while my mind is still working. Other than that, I am grateful of it, because at least my promise to myself is completed by now. 
+
+And that is it, everyone. My first knitted sock.
+
+I am planning on making another pair with the same pattern. But before that, I need to split my DK weight yarn into sport weight so I can get my socks thin enough.
+
+Anyhow, this is it for the post.
+
+Thank you for reading this, hope you have a good great day!:heart:
