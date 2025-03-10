@@ -88,7 +88,7 @@ Maybe I should buy some yarn?????? Hehehhehehehhehehehehhehehrhhehehrhrhrhhehehe
 Okay, I need to stop thinking about this knitting things because it is making me crazy right now :sob:
 
 I'll attach the pic tomorrow.
-![[IMG_20250225_110431.jpg]]
+![finished sock](IMG_20250225_110431.jpg)
 
 Took a long time for me to just attach the pics. But you know, life. And I am doing this while I feel dizzy 😭🙏
 
