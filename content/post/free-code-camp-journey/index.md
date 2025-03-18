@@ -128,3 +128,15 @@ Tapi... I feel like I don't understand anything :sob::sob::sob:
 ....
 
 Yasudahlah~
+
+### 2025-03-18
+
+Yaps, setelah sekian lama  nggak menyentuh frecodecamp lagi, akhirnya kangen sendiri. Har ini aku mulai membuat penguin dengan CSS. Ini baru step 2 dan aku udha kesusahan. But, everything can be learned, right?
+
+What I learned today:
+- You NEED to watch out your code, jangan smapai ada spasi diantara mereka semua
+- Ternyata aku belum terbiasa nulis kode dengan singkat padat dan satu baris saja. Masih prelu spasi yang banyak, tapi gapapa
+- Untuk menyembunyikan scroll bar, cuma prelu setting `overflow` jadi `hidden` saja. ismpel.
+- "full viewport" means 100vw. Ini untuk kasus width, kalau ful nya height, jadinya 100vh.
+
+Sudah, 12 presen dulu, biar nggak terlalu bosen hehehhe. Mari bertemu bocil-bocil lagi ehehehe

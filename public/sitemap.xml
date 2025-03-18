@@ -2,13 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/thoughts/2025-02-25_02/</loc>
-    <lastmod>2025-02-25T22:18:53+07:00</lastmod>
+    <loc>http://localhost:1313/post/miss-kim-knows-book-review/</loc>
+    <lastmod>2025-03-17T10:34:09+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/book/</loc>
+    <lastmod>2025-03-17T10:34:09+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/consume/</loc>
+    <lastmod>2025-03-17T10:34:09+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-02-25T22:18:53+07:00</lastmod>
+    <lastmod>2025-03-17T10:34:09+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-03-17T10:34:09+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-03-17T10:34:09+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/2025-03-17_1/</loc>
+    <lastmod>2025-03-17T10:30:09+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/thoughts/</loc>
+    <lastmod>2025-03-17T10:30:09+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/2025-03-16_1/</loc>
+    <lastmod>2025-03-16T19:27:40+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/2025-03-16/</loc>
+    <lastmod>2025-03-16T17:48:24+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/series-touche/</loc>
+    <lastmod>2025-03-15T20:31:04+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/2025-03-15/</loc>
+    <lastmod>2025-03-15T15:31:07+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/creations/</loc>
+    <lastmod>2025-03-07T06:33:24+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/creations/craft-tools-organizer/</loc>
+    <lastmod>2025-03-07T06:33:24+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/2025-03-07_01/</loc>
+    <lastmod>2025-03-07T06:30:42+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/dua-belas-pasang-mata/</loc>
+    <lastmod>2025-03-07T05:45:38+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/buku/</loc>
+    <lastmod>2025-03-07T05:45:38+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/2025-02-25_02/</loc>
     <lastmod>2025-02-25T22:18:53+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/thoughts/2025-02-25_01/</loc>
@@ -23,9 +68,6 @@
     <loc>http://localhost:1313/post/the-consultant/</loc>
     <lastmod>2025-02-21T09:53:59+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-02-21T09:53:59+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/free-code-camp-journey/</loc>
     <lastmod>2025-02-20T10:49:42+07:00</lastmod>
   </url><url>
@@ -33,9 +75,6 @@
     <lastmod>2025-02-20T10:49:42+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/learn/</loc>
-    <lastmod>2025-02-20T10:49:42+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-02-20T10:49:42+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/web-dev/</loc>
@@ -59,9 +98,6 @@
     <loc>http://localhost:1313/tags/knitting/</loc>
     <lastmod>2025-02-17T23:23:08+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/creations/</loc>
-    <lastmod>2025-02-17T23:17:33+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/creations/first-knit-sock/</loc>
     <lastmod>2025-02-17T23:17:33+07:00</lastmod>
   </url><url>
@@ -78,12 +114,6 @@
     <lastmod>2025-02-08T11:23:44+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/kumpulan-buku-domain-publik-indonesia/</loc>
-    <lastmod>2025-02-08T10:41:22+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/buku/</loc>
-    <lastmod>2025-02-08T10:41:22+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/consume/</loc>
     <lastmod>2025-02-08T10:41:22+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/thoughts/2025-02-08/</loc>

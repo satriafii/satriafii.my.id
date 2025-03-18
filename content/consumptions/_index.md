@@ -3,13 +3,37 @@ title: "Consumptions"
 ---
 Selain disini, aku juga memamerkan bacaanku di [The Storygraph](https://app.thestorygraph.com/profile/satriafii). Selain buku, aku juga nonton drama, film, video youtube, dan mendengarkan lagu serta podcast. Tapi kebanyakan buku sih.
 ## 2025 Reads & Watch
-|                                                                                           |                                                                                                   |
-| :---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------: |
-| **Dallergut Dream Department Store**														| 																	membaca ulang karena kangen saja|
-| **Miss Kim Knows: And Other Stories**														|				   :star: :star: :star: kumcer yang tokoh-tokohnya kebanyakan feminis dan realitstis|
-| [**Dua Belas Pasang Mata**](/post/Dua-Belas-Pasang-Mata)                                                                 |                                                        Cerita sederhana tapi perempuan tetap jaya |
-| [**The Book Swap**](/post/The-Book-Swap-Book-Review)                                    	|                                           :star: :star: :star: untuk Male Lead nya karena kasihan |
-| [**Why Secretary Kim 2**](/post/Why-Secretary-Kim-Book-Review)                            |                                                         :star::star: Udah nggak kerasa keuwuannya |
+|                                                                           |                                                                                   |
+| :------------------------------------------------------------------------ | --------------------------------------------------------------------------------: |
+| **Touche: Alchemist**														|										   Set the standard for Indonesian thriller |
+| **The Curious Kitten At The Chibineko Kitchen**                           |                                                     The kitten is a cherry on top |
+| **At A Distant, Spring is Green**                                         |                                                  Edisi kangen wanna one episode 2 |
+| **Study Group**                                                           |                                                  Edisi kangen wanna one episode 1 |
+| **Touchè buku 1**                                                         |                                                                      a good start |
+| **살인자의 쇼핑 목록**                                                      	|                                       belum cocok dengan bakorku yang jongkok ini |
+| **Petualangan Alice di Negeri Ajaib**                                     |                                                                     Beneran ajaib |
+| **해리 포터와 법시의 돌**                                                    |                                                              another Harry Potter |
+| **Binatangisme**                                                          |                                          Literal Animal Farm dengan umpatan lokal |
+| **Cara Berbahagia Tanpa Kepala**                                          |                                    how can you talking about head without a head? |
+| **The Mysterious Benedict Society and The Prisoner's Dilemma**            |                                                              THEY GROW UP FAST!!! |
+| **Building A Second Brain**                                               |                                                 Pure info, take with grain of msg |
+| **Why I Am So Clever**                                                    |                        Baru kali ini nemu tulisan yang bisa ngomong kayak Bapakku |
+| **Burisrawa Rindukan Bulan**                                              |                          makjang lokal sih ini, staring Puan dengan bekingan gede |
+| **The Saga of Gunnlaug Serpent-Tongue**                                   |                                                 bingung ni banyak banget orangnya |
+| **Bahaya-Bahaya yang Indah**                                              |                                                   Another man love his any thing. |
+| **As Kingfishers Catch Fire**                                             |                                                         The man who love his God. |
+| **Mrs. Rosie and the Priest**                                             |                                                               there is steam here |
+| **Pemetik Bintang**                                                       |                                                     tentang cowok pengecut aja si |
+| **your name**                                                             |                                                      I blame the star. that's it. |
+| **We Can't Do Just Plain Love Volume 1-3**                                |                                                     pure smut with a little plot. |
+| **The Mysterious Benedict Society and the Perilous Journey**              |                                                               terbocil-bocil huhu |
+| **The Hobbit**                                                            |                                                                             hmmmm |
+| **Kumpulan Cerita Rakyat Asia Tenggara**                                  |                                                                     I roast here. |
+| **Dallergut Dream Department Store**                                      |                                                  membaca ulang karena kangen saja |
+| [**Miss Kim Knows: And Other Stories**](/post/miss-kim-knows-book-review) | :star: :star: :star: kumcer yang tokoh-tokohnya kebanyakan feminis dan realitstis |
+| [**Dua Belas Pasang Mata**](/post/Dua-Belas-Pasang-Mata)                  |                                        Cerita sederhana tapi perempuan tetap jaya |
+| [**The Book Swap**](/post/The-Book-Swap-Book-Review)                      |                           :star: :star: :star: untuk Male Lead nya karena kasihan |
+| [**Why Secretary Kim 2**](/post/Why-Secretary-Kim-Book-Review)            |                                         :star::star: Udah nggak kerasa keuwuannya |
 
 
 ## 2024 Reads
@@ -97,7 +121,7 @@ Selain disini, aku juga memamerkan bacaanku di [The Storygraph](https://app.thes
 | **Kambing dan Hujan: Sebuah Roman**                                                       |                                                               Dibaca 2 kali, ⭐5 untuk Bapak-Bapak |
 | **Terusir**                                                                               |                                Buku Hamka pertama yang aku baca, suka karena klasik aja ceritanya |
 | **Blue Morpho**                                                                           |                                    emmmmmmmmmmmmmmm slow living guy meet budak korporat girly (?) |
-| **남편 을 죽이는 서른 가지 방법: 서 미애 추리 소설**                                          	|                                          audiobook berbahasa Korea pertama. Twist nya nikmat 🥩🙂 |
+| **남편을 죽이는 서른 가지 방법: 서 미애 추리 소설**                                          	|                                          audiobook berbahasa Korea pertama. Twist nya nikmat 🥩🙂 |
 | **Kartun Biologi (The Cartoon Guide to Biology)**                                         |                                              Dibaca agar tidak melupakan pelajaran genetika 👍	👍 |
 | **The Story of Seeds**                                									|                                🌱👍 informative but nggak terlalu dalam, cocok buat bacaan ringan |
 | **Are You There God? It's Me, Margaret**                                                  |                                                                          Hi, Margaret👋 You okay? |
@@ -113,3 +137,16 @@ Selain disini, aku juga memamerkan bacaanku di [The Storygraph](https://app.thes
 | **Penaka**                                                                                |                  Petualangan seru pasangan suami istri memahami dunia dari litereli berbagai sisi |
 | **Crying Is Like the Rain**                          										|                                                     Cute little book untuk dibaca bareng bocil 🫶 |
 | **Crazy Rich Asians**                                                                     |                                   First book of 2024, tidak se-crazy rich Surabayan bayanganku 🙃 |
+
+
+## 2023 Reads
+waiting......
+
+## 2022 Reads
+waiting for me to copy these data.....
+
+## 2021 Reads
+wait for me to copy the data......
+
+## 2020 Reads
+wait for me to copy the data.......

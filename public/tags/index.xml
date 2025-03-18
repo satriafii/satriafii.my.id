@@ -6,8 +6,29 @@
     <description>Recent content in Tags on Satriafii</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Feb 2025 10:49:42 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 10:34:09 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book</title>
+      <link>http://localhost:1313/tags/book/</link>
+      <pubDate>Mon, 17 Mar 2025 10:34:09 +0700</pubDate>
+      <guid>http://localhost:1313/tags/book/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Consume</title>
+      <link>http://localhost:1313/tags/consume/</link>
+      <pubDate>Mon, 17 Mar 2025 10:34:09 +0700</pubDate>
+      <guid>http://localhost:1313/tags/consume/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Buku</title>
+      <link>http://localhost:1313/tags/buku/</link>
+      <pubDate>Fri, 07 Mar 2025 05:45:38 +0700</pubDate>
+      <guid>http://localhost:1313/tags/buku/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Create</title>
       <link>http://localhost:1313/tags/create/</link>
@@ -34,20 +55,6 @@
       <link>http://localhost:1313/tags/knitting/</link>
       <pubDate>Mon, 17 Feb 2025 23:23:08 +0700</pubDate>
       <guid>http://localhost:1313/tags/knitting/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Buku</title>
-      <link>http://localhost:1313/tags/buku/</link>
-      <pubDate>Sat, 08 Feb 2025 10:41:22 +0700</pubDate>
-      <guid>http://localhost:1313/tags/buku/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Consume</title>
-      <link>http://localhost:1313/tags/consume/</link>
-      <pubDate>Sat, 08 Feb 2025 10:41:22 +0700</pubDate>
-      <guid>http://localhost:1313/tags/consume/</guid>
       <description></description>
     </item>
     <item>

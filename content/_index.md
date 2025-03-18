@@ -17,8 +17,9 @@ Some stuff that I did and I think these worth to look at to know more about me:
 - [My thoughts because maybe you still remember how twitter work](/thoughts/)
 
 What I do nowadays:
-- [Attempting to knit my first piece of sock in English so I can force myself to write in English](/post/first-knit-sock/)
+- [Read Books, I track here](/consumptions/)
 - [Learning code at freecodecamp.org everyday and track the progress here](/post/free-code-camp-journey/)
+- Create some crochet, I don't really talk much about it, because I'm too focused doing hehe
 
 You can talk to me [here](https://x.com/satriafii/) or [email me](mailto:heysatriafi@gmail.com).
 
