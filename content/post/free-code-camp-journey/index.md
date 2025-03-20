@@ -140,3 +140,15 @@ What I learned today:
 - "full viewport" means 100vw. Ini untuk kasus width, kalau ful nya height, jadinya 100vh.
 
 Sudah, 12 presen dulu, biar nggak terlalu bosen hehehhe. Mari bertemu bocil-bocil lagi ehehehe
+
+### 2025-03-20
+
+Melewatkan satu hari, tak apa~ 
+
+Wkkwkwkwkw alasan aja sih.
+
+Hari ini mari menulis kode lagi (alias mengerjakan apa yang harus dikerjakan).
+
+Sudah 25% dari project membuat penguin, tapi aku nggak pengen ss sih :" Kali ini masih dasar-dasarnya aja sihhh jadi yaaahhh masih sama kayak kemaren-kemaren sih.
+
+Satu hal yang bisa jadi catatan sih, `z-index` tu aku lupa belajarnya kapan, tapi nilainya 1 dan 2 sih yang aku pake di bikin penguin ini ehehe Gitu sajah~

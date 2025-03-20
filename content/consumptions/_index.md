@@ -5,6 +5,8 @@ Selain disini, aku juga memamerkan bacaanku di [The Storygraph](https://app.thes
 ## 2025 Reads & Watch
 |                                                                           |                                                                                   |
 | :------------------------------------------------------------------------ | --------------------------------------------------------------------------------: |
+| **Touche: Rosetta**														| 							Kalau mbak penulisnya ga galak, akan aku tagih touche 4 |
+| **The Mysterious Benedict Society and The Riddle of Ages**				|									 YAAMPUN UDAH GEDE GEDE ANAK-ANAK AKU HHUHUHUHU |
 | **Touche: Alchemist**														|										   Set the standard for Indonesian thriller |
 | **The Curious Kitten At The Chibineko Kitchen**                           |                                                     The kitten is a cherry on top |
 | **At A Distant, Spring is Green**                                         |                                                  Edisi kangen wanna one episode 2 |
@@ -29,7 +31,7 @@ Selain disini, aku juga memamerkan bacaanku di [The Storygraph](https://app.thes
 | **The Mysterious Benedict Society and the Perilous Journey**              |                                                               terbocil-bocil huhu |
 | **The Hobbit**                                                            |                                                                             hmmmm |
 | **Kumpulan Cerita Rakyat Asia Tenggara**                                  |                                                                     I roast here. |
-| **Dallergut Dream Department Store**                                      |                                                  membaca ulang karena kangen saja |
+| [**Dallergut Dream Department Store**](/post/dallergut-toko-penjual-mimpi)|                                                  membaca ulang karena kangen saja |
 | [**Miss Kim Knows: And Other Stories**](/post/miss-kim-knows-book-review) | :star: :star: :star: kumcer yang tokoh-tokohnya kebanyakan feminis dan realitstis |
 | [**Dua Belas Pasang Mata**](/post/Dua-Belas-Pasang-Mata)                  |                                        Cerita sederhana tapi perempuan tetap jaya |
 | [**The Book Swap**](/post/The-Book-Swap-Book-Review)                      |                           :star: :star: :star: untuk Male Lead nya karena kasihan |
