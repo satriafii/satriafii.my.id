@@ -6,7 +6,7 @@ Welcome to this little corner on the internet.
 
 This is the place where I put [my thoughts](/thoughts/), [cool photos](/photos/), [stuff that I make](/creations/), [things that I enjoy and not enjoy](/consumptions/), and [longer writing about anything](/post/).
 
-I write anything in some languages randomly due to my multilangual brain work.
+I write anything in some languages randomly due to my multilangual brain work. Mostly I write in Indonesian and English. 
 
 Some stuff that I did and I think these worth to look at to know more about me:
 - [My photos page, it is so simple but functional and I think it's pretty hehe](/photos/)

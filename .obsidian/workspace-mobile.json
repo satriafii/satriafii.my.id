@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "32a2448c1c209b5f",
+        "id": "973ac8f68d9e0d5f",
         "type": "tabs",
         "children": [
           {
-            "id": "b7d40f00054effcc",
+            "id": "1d2178d898be9f4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/consumptions/_index.md",
+                "file": "content/post/my-first-micro-crochet-bracelet/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "index"
             }
           }
         ]
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/thoughts/2025-03-18.md",
+            "file": "content/post/crochet-craft-tools-organizer/index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -142,9 +142,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7d40f00054effcc",
+  "active": "1d2178d898be9f4e",
   "lastOpenFiles": [
+    "public/post/my-first-micro-crochet-bracelet/index.html",
+    "content/creations/my-first-micro-crochet-bracelet.md",
+    "content/post/my-first-micro-crochet-bracelet/index.md",
+    "Untitled.md",
+    "public/creations/my-first-micro-crochet-bracelet/index.html",
+    "public/creations/my-first-micro-crochet-bracelet",
+    "content/creations/craft-tools-organizer.md",
+    "content/post/crochet-craft-tools-organizer/index.md",
+    "content/post/crochet-craft-tools-organizer/IMG_20250314_124603.jpg",
+    "content/post/crochet-craft-tools-organizer/IMG_20250314_124557.jpg",
+    "content/post/crochet-craft-tools-organizer/IMG_20250314_124610.jpg",
     "content/consumptions/_index.md",
+    "content/_index.md",
+    "content/thoughts/2025-03-28_2.md",
+    "content/thoughts/2025-01-11/index.md",
+    "content/thoughts/2025-03-28_1.md",
+    "content/thoughts/2025-03-26.md",
+    "content/thoughts/2025-03-23.md",
     "content/post/free-code-camp-journey/index.md",
     "content/thoughts/2025-03-18.md",
     "content/thoughts/2025-03-20_1.md",
@@ -159,29 +176,15 @@
     "content/thoughts/2025-03-17_1.md",
     "content/thoughts/2025-03-16_1.md",
     "content/post/series-touche.md",
-    "content/thoughts/2025-03-16.md",
-    "content/creations/craft-tools-organizer.md",
-    "Untitled.md",
-    "content/thoughts/2025-03-15.md",
     "content/post/first-knit-sock/IMG_20250225_110431.jpg",
     "public/creations/craft-tools-organizer/index.html",
     "public/creations/craft-tools-organizer",
-    "content/thoughts/2025-03-07_01.md",
     "public/thoughts/2025-03-07_01/index.html",
     "public/thoughts/2025-03-07_01",
-    "content/post/Dua-Belas-Pasang-Mata.md",
     "public/post/dua-belas-pasang-mata/index.html",
     "public/post/dua-belas-pasang-mata",
-    "content/thoughts/2025-02-23_02.md",
-    "content/post/first-knit-sock/index.md",
     "content/post/first-knit-sock/IMG_20250218_110244.jpg",
-    "content/thoughts/2025-02-23_01.md",
-    "content/post/the-consultant.md",
     "public/post/the-consultant/index.html",
-    "public/tags/consume/index.html",
-    "public/tags/write/index.xml",
-    "content/thoughts/2025-02-20_01.md",
-    "content/post/free-code-camp-journey.md",
     "content/thoughts/Screenshot_2025-01-15-10-16-29-204.jpg",
     "content/thoughts/2025-02-18_01/bentukan-city-skyline-hari-ini.png",
     "content/thoughts/Screenshot_2025-01-15-10-16-41-233.jpg",

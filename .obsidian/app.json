@@ -12,5 +12,6 @@
     "editor:copy",
     "editor:cut"
   ],
-  "mobilePullAction": "editor:save-file"
+  "mobilePullAction": "editor:save-file",
+  "promptDelete": false
 }
