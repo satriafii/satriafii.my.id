@@ -2,25 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/post/belajar-bakor-bareng/</loc>
+    <lastmod>2025-04-20T14:46:49+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-04-20T14:46:49+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-04-20T14:46:49+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/2025-04-12/</loc>
+    <lastmod>2025-04-12T14:52:08+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/</loc>
+    <lastmod>2025-04-12T14:52:08+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/resep-gulali-dan-sugar-wax/</loc>
+    <lastmod>2025-04-11T12:25:23+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/creation/</loc>
+    <lastmod>2025-04-11T12:25:23+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-04-11T12:25:23+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/2025-04-11_1/</loc>
+    <lastmod>2025-04-11T12:20:13+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/2025-04-10_01/</loc>
+    <lastmod>2025-04-10T07:01:02+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/my-first-micro-crochet-bracelet/</loc>
+    <lastmod>2025-04-09T08:19:03+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/creations/</loc>
+    <lastmod>2025-04-09T08:15:14+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/creations/my-first-micro-crochet-bracelet/</loc>
+    <lastmod>2025-04-09T08:15:14+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/post/crochet-craft-tools-organizer/</loc>
     <lastmod>2025-04-08T08:56:19+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/creation/</loc>
-    <lastmod>2025-04-08T08:56:19+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-08T08:56:19+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-04-08T08:56:19+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-04-08T08:56:19+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/thoughts/2025-03-28_2/</loc>
-    <lastmod>2025-03-28T18:31:59+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/thoughts/</loc>
     <lastmod>2025-03-28T18:31:59+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/thoughts/2025-03-28_1/</loc>
@@ -61,9 +85,6 @@
   </url><url>
     <loc>http://localhost:1313/thoughts/2025-03-15/</loc>
     <lastmod>2025-03-15T15:31:07+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/creations/</loc>
-    <lastmod>2025-03-07T06:33:24+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/creations/craft-tools-organizer/</loc>
     <lastmod>2025-03-07T06:33:24+07:00</lastmod>
