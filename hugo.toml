@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Satriafii'
 enableEmoji = true
 
+[outputs]
+home = ["HTML", "RSS"]
+
 [imaging]
 
 quality = 55
