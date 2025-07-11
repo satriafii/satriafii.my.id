@@ -18,8 +18,8 @@ Some stuff that I did and I think these worth to look at to know more about me:
 
 What I do nowadays:
 - [Read Books, I track here](/consumptions/)
-- [Learning code at freecodecamp.org everyday and track the progress here](/post/free-code-camp-journey/)
-- Create some crochet, I don't really talk much about it, because I'm too focused doing hehe
+- [sendirian](/post/loneliness-kill-you/)
+- Create some crochet and knitting garments, here my [Ravelry page](https://www.ravelry.com/people/satriafii) where I track most of my Work In Progress.
 
 You can talk to me [here](https://x.com/satriafii/) or [email me](mailto:heysatriafi@gmail.com).
 

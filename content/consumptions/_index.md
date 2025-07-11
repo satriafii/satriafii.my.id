@@ -5,6 +5,20 @@ Selain disini, aku juga memamerkan bacaanku di [The Storygraph](https://app.thes
 ## 2025 Reads & Watch
 |                                                                           |                                                                                   |
 | :------------------------------------------------------------------------ | --------------------------------------------------------------------------------: |
+| **Greek Lesson**															| 			A sad love story, I feel to re-read this book again in a *proper* way.  |
+| **Mari Pergi Lebih Jauh** 												| 				I feel shit is about to going down from here (kalau ada lanjutannya |
+| **Si Tukang Onar**														| 												 DNF, bahasanya kurang cocok di aku |
+| **One Day in December**													| 				  Another slowburn to ruin my day (aku kurang suka slowburn story). |
+| **Moonbound** 															| 	 Ikut deg-deg an memantau grafik, tapi salut mereka mengelola uang dengan baik. |
+| **Human Acts**															|	 													 Just.... cry 😥 Sedih ini. |
+| **Life of Pi**															| 							   		 Still classic, just a boy, a tiger, and a sea. |
+| **Lelaki Tua dan Laut**													|				  Another first classic. Dibaca bareng Pi jadi makin kerasa di laut |
+| **Sayap-Sayap Patah**														| 			 Romeo Juliet coded tapi Julietnya pinter dan agak sedikit pemberontak. |
+| **The Woman Who Dreamt of Three Birds**									| 	   Cerita seorang istri yang mendukung penuh suaminya berjuang sambil membatik. |
+| **Harry Potter and the Half Blood Prnce**									| 								   Well, ini pembersih indra perasa sih buatku wkwk |
+| **Hectic, Hectic, Hat Trick!**											| 						   Andaikan baca ini pas SMP/SMA. Pasti bakalan lebih seru. |
+| **Pribadi Hebat**															| 											  Preachy tapi nggak terlalu menggurui. |
+| **Counterattacks at Thirty**												| 				   Inikah yang dinamakan puber kedua tanpa mengalami puber pertama? |
 | **Touche: Rosetta**														| 							Kalau mbak penulisnya ga galak, akan aku tagih touche 4 |
 | **The Mysterious Benedict Society and The Riddle of Ages**				|									 YAAMPUN UDAH GEDE GEDE ANAK-ANAK AKU HHUHUHUHU |
 | **Touche: Alchemist**														|										   Set the standard for Indonesian thriller |
